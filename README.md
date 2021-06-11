@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 - 📖 Maintainer of the [Russian PHP documentation](https://github.com/php/doc-ru)
 - 📚 One of the translators of

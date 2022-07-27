@@ -10,7 +10,7 @@
 - 🍻 [BeerPHP Yaroslavl](https://github.com/beerphp/yaroslavl) organizer
 - ❤️ Love PHP
 
-## Recent Activity
+#### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
@@ -24,6 +24,6 @@
 Last Updated: Wednesday, July 27th, 2022, 10:14:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-## Contacts
+#### 💌 Contacts
 
 You can reach me by email or [Telegram](https://t.me/saundefined).

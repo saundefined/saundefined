@@ -10,4 +10,12 @@
 - 🍻 [BeerPHP Yaroslavl](https://github.com/beerphp/yaroslavl) organizer
 - ❤️ Love PHP
 
+## Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+## Contacts
+
 You can reach me by email or [Telegram](https://t.me/saundefined).

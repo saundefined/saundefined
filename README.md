@@ -14,14 +14,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 3. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
-4. 💪 Opened PR [#261](https://github.com/php/doc-fr/pull/261) in [php/doc-fr](https://github.com/php/doc-fr)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
+5. 💪 Opened PR [#261](https://github.com/php/doc-fr/pull/261) in [php/doc-fr](https://github.com/php/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 27th, 2022, 1:16:23 PM
+Last Updated: Wednesday, July 27th, 2022, 2:05:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### 💌 Contacts

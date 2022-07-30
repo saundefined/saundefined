@@ -13,15 +13,15 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/saundefined/thephp.foundation/pull/1) in [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+1. 💬 Commented on [#410](https://github.com/php/doc-ru/issues/410#issuecomment-1200280382) in [php/doc-ru](https://github.com/php/doc-ru)
 2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. 💬 Commented on [#46](https://github.com/ThePHPF/thephp.foundation/pull/46#discussion_r933014883) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+3. ✔️ Closed issue [#410](https://github.com/php/doc-ru/issues/410) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ❌ Closed PR [#1](https://github.com/saundefined/thephp.foundation/pull/1) in [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 30th, 2022, 7:03:01 PM
+Last Updated: Saturday, July 30th, 2022, 8:03:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### 💌 Contacts

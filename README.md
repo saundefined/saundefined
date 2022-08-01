@@ -15,13 +15,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. 💬 Commented on [#410](https://github.com/php/doc-ru/issues/410#issuecomment-1200280382) in [php/doc-ru](https://github.com/php/doc-ru)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ✔️ Closed issue [#410](https://github.com/php/doc-ru/issues/410) in [php/doc-ru](https://github.com/php/doc-ru)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. 💬 Commented on [#410](https://github.com/php/doc-ru/issues/410#issuecomment-1200280382) in [php/doc-ru](https://github.com/php/doc-ru)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 1st, 2022, 8:03:45 AM
+Last Updated: Monday, August 1st, 2022, 9:03:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### 💌 Contacts

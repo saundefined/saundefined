@@ -13,15 +13,15 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
 3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. 🎉 Merged PR [#411](https://github.com/php/doc-ru/pull/411) in [php/doc-ru](https://github.com/php/doc-ru)
-5. 👍 Approved [#411](https://github.com/php/doc-ru/pull/411#pullrequestreview-1057510109) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. 🎉 Merged PR [#411](https://github.com/php/doc-ru/pull/411) in [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 3rd, 2022, 3:42:25 AM
+Last Updated: Wednesday, August 3rd, 2022, 4:26:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### 💌 Contacts

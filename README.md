@@ -13,15 +13,15 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-2. 🎉 Merged PR [#681](https://github.com/php/web-php/pull/681) in [php/web-php](https://github.com/php/web-php)
-3. 💪 Opened PR [#681](https://github.com/php/web-php/pull/681) in [php/web-php](https://github.com/php/web-php)
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-5. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+3. 🎉 Merged PR [#681](https://github.com/php/web-php/pull/681) in [php/web-php](https://github.com/php/web-php)
+4. 💪 Opened PR [#681](https://github.com/php/web-php/pull/681) in [php/web-php](https://github.com/php/web-php)
+5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 7th, 2022, 7:02:57 PM
+Last Updated: Sunday, August 7th, 2022, 8:04:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### 💌 Contacts

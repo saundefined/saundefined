@@ -20,10 +20,6 @@
 5. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)
 <!--RECENT_ACTIVITY:end-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 11th, 2022, 10:03:36 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-#### 💌 Contacts
+#### 💌 How to reach out to me
 
 You can reach me by email or [Telegram](https://t.me/saundefined).

@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#68](https://github.com/php/doc-base/pull/68) in [php/doc-base](https://github.com/php/doc-base)
-2. 💬 Commented on [#415](https://github.com/php/doc-ru/issues/415#issuecomment-1216918100) in [php/doc-ru](https://github.com/php/doc-ru)
-3. 💬 Commented on [#9186](https://github.com/php/php-src/issues/9186#issuecomment-1216884689) in [php/php-src](https://github.com/php/php-src)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. 🎉 Merged PR [#414](https://github.com/php/doc-ru/pull/414) in [php/doc-ru](https://github.com/php/doc-ru)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-base](https://github.com/php/doc-base)
+2. ✔️ Closed issue [#415](https://github.com/php/doc-ru/issues/415) in [php/doc-ru](https://github.com/php/doc-ru)
+3. 🎉 Merged PR [#68](https://github.com/php/doc-base/pull/68) in [php/doc-base](https://github.com/php/doc-base)
+4. 💬 Commented on [#68](https://github.com/php/doc-base/pull/68#issuecomment-1216987863) in [php/doc-base](https://github.com/php/doc-base)
+5. ❗️ Opened issue [#131](https://github.com/phpinternalsbook/PHP-Internals-Book/issues/131) in [phpinternalsbook/PHP-Internals-Book](https://github.com/phpinternalsbook/PHP-Internals-Book)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

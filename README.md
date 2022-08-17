@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-base](https://github.com/php/doc-base)
-2. ✔️ Closed issue [#415](https://github.com/php/doc-ru/issues/415) in [php/doc-ru](https://github.com/php/doc-ru)
-3. 🎉 Merged PR [#68](https://github.com/php/doc-base/pull/68) in [php/doc-base](https://github.com/php/doc-base)
-4. 💬 Commented on [#68](https://github.com/php/doc-base/pull/68#issuecomment-1216987863) in [php/doc-base](https://github.com/php/doc-base)
-5. ❗️ Opened issue [#131](https://github.com/phpinternalsbook/PHP-Internals-Book/issues/131) in [phpinternalsbook/PHP-Internals-Book](https://github.com/phpinternalsbook/PHP-Internals-Book)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. 💬 Commented on [#270](https://github.com/php/doc-fr/pull/270#discussion_r947465528) in [php/doc-fr](https://github.com/php/doc-fr)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-base](https://github.com/php/doc-base)
+5. ✔️ Closed issue [#415](https://github.com/php/doc-ru/issues/415) in [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

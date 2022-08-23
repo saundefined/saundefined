@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
-2. 💪 Opened PR [#273](https://github.com/php/doc-fr/pull/273) in [php/doc-fr](https://github.com/php/doc-fr)
-3. ⭐ Starred [samdark/opensource-hate](https://github.com/samdark/opensource-hate)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+1. ⭐ Starred [shivammathur/setup-php](https://github.com/shivammathur/setup-php)
+2. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+3. 💪 Opened PR [#273](https://github.com/php/doc-fr/pull/273) in [php/doc-fr](https://github.com/php/doc-fr)
+4. ⭐ Starred [samdark/opensource-hate](https://github.com/samdark/opensource-hate)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

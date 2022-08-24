@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. 🎉 Merged PR [#416](https://github.com/php/doc-ru/pull/416) in [php/doc-ru](https://github.com/php/doc-ru)
 2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. ⭐ Starred [shivammathur/setup-php](https://github.com/shivammathur/setup-php)
-4. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
-5. 💪 Opened PR [#273](https://github.com/php/doc-fr/pull/273) in [php/doc-fr](https://github.com/php/doc-fr)
+3. 👍 Approved [#416](https://github.com/php/doc-ru/pull/416#pullrequestreview-1083204811) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

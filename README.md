@@ -15,9 +15,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. 🎉 Merged PR [#417](https://github.com/php/doc-ru/pull/417) in [php/doc-ru](https://github.com/php/doc-ru)
-4. 👍 Approved [#417](https://github.com/php/doc-ru/pull/417#pullrequestreview-1089772157) in [php/doc-ru](https://github.com/php/doc-ru)
-5. ⭐ Starred [nextapps-be/livewire-sortablejs](https://github.com/nextapps-be/livewire-sortablejs)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. 🎉 Merged PR [#417](https://github.com/php/doc-ru/pull/417) in [php/doc-ru](https://github.com/php/doc-ru)
+5. 👍 Approved [#417](https://github.com/php/doc-ru/pull/417#pullrequestreview-1089772157) in [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nextapps-be/livewire-sortablejs](https://github.com/nextapps-be/livewire-sortablejs)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ⭐ Starred [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+3. 🎉 Merged PR [#417](https://github.com/php/doc-ru/pull/417) in [php/doc-ru](https://github.com/php/doc-ru)
+4. 👍 Approved [#417](https://github.com/php/doc-ru/pull/417#pullrequestreview-1089772157) in [php/doc-ru](https://github.com/php/doc-ru)
+5. ⭐ Starred [nextapps-be/livewire-sortablejs](https://github.com/nextapps-be/livewire-sortablejs)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

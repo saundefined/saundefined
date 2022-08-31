@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#275](https://github.com/php/doc-fr/pull/275) in [php/doc-fr](https://github.com/php/doc-fr)
-2. 💬 Commented on [#52](https://github.com/ThePHPF/thephp.foundation/pull/52#discussion_r959205572) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-3. 💬 Commented on [#52](https://github.com/ThePHPF/thephp.foundation/pull/52#discussion_r959206367) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-4. 💪 Opened PR [#691](https://github.com/php/web-php/pull/691) in [php/web-php](https://github.com/php/web-php)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. 💬 Commented on [#275](https://github.com/php/doc-fr/pull/275#discussion_r959239060) in [php/doc-fr](https://github.com/php/doc-fr)
+2. 💪 Opened PR [#275](https://github.com/php/doc-fr/pull/275) in [php/doc-fr](https://github.com/php/doc-fr)
+3. 💬 Commented on [#52](https://github.com/ThePHPF/thephp.foundation/pull/52#discussion_r959205572) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+4. 💬 Commented on [#52](https://github.com/ThePHPF/thephp.foundation/pull/52#discussion_r959206367) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+5. 💪 Opened PR [#691](https://github.com/php/web-php/pull/691) in [php/web-php](https://github.com/php/web-php)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

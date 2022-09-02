@@ -13,9 +13,9 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 0 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-2. 💪 Opened PR [#53](https://github.com/ThePHPF/thephp.foundation/pull/53) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+1. 💬 Commented on [#1790](https://github.com/php/doc-en/issues/1790#issuecomment-1235269190) in [php/doc-en](https://github.com/php/doc-en)
+2. ⬆️ Pushed 0 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+3. 💪 Opened PR [#53](https://github.com/ThePHPF/thephp.foundation/pull/53) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
 4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 5. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 <!--RECENT_ACTIVITY:end-->

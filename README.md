@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-2. ⬆️ Pushed 0 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+1. ⬆️ Pushed 0 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+2. 💪 Opened PR [#53](https://github.com/ThePHPF/thephp.foundation/pull/53) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
 3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-4. ❌ Closed PR [#3](https://github.com/saundefined/thephp.foundation/pull/3) in [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-5. ❌ Closed PR [#3](https://github.com/saundefined/thephp.foundation/pull/3) in [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+5. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

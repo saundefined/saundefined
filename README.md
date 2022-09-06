@@ -14,10 +14,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. ⭐ Starred [manogi/nova-tiptap](https://github.com/manogi/nova-tiptap)
-4. 💬 Commented on [#1790](https://github.com/php/doc-en/issues/1790#issuecomment-1235269190) in [php/doc-en](https://github.com/php/doc-en)
-5. ⬆️ Pushed 0 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+2. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. ⭐ Starred [manogi/nova-tiptap](https://github.com/manogi/nova-tiptap)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

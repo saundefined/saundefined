@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. 💪 Opened PR [#277](https://github.com/php/doc-fr/pull/277) in [php/doc-fr](https://github.com/php/doc-fr)
+2. 💪 Opened PR [#102](https://github.com/php/doc-de/pull/102) in [php/doc-de](https://github.com/php/doc-de)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-de](https://github.com/saundefined/doc-de)
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ⭐ Starred [manogi/nova-tiptap](https://github.com/manogi/nova-tiptap)
+5. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#277](https://github.com/php/doc-fr/pull/277) in [php/doc-fr](https://github.com/php/doc-fr)
-2. 💪 Opened PR [#102](https://github.com/php/doc-de/pull/102) in [php/doc-de](https://github.com/php/doc-de)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-de](https://github.com/saundefined/doc-de)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
+1. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+2. 💬 Commented on [#277](https://github.com/php/doc-fr/pull/277#discussion_r963599856) in [php/doc-fr](https://github.com/php/doc-fr)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+4. 💬 Commented on [#277](https://github.com/php/doc-fr/pull/277#discussion_r963572152) in [php/doc-fr](https://github.com/php/doc-fr)
+5. 💪 Opened PR [#277](https://github.com/php/doc-fr/pull/277) in [php/doc-fr](https://github.com/php/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

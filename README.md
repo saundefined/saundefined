@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
+1. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
+2. 🎉 Merged PR [#11](https://github.com/qq-agency/bitrix-idea/pull/11) in [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
+3. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. 👍 Approved [#61](https://github.com/ThePHPF/thephp.foundation/pull/61#pullrequestreview-1125177849) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+5. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

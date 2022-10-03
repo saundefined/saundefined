@@ -14,9 +14,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. 🎉 Merged PR [#427](https://github.com/php/doc-ru/pull/427) in [php/doc-ru](https://github.com/php/doc-ru)
-4. 💪 Opened PR [#427](https://github.com/php/doc-ru/pull/427) in [php/doc-ru](https://github.com/php/doc-ru)
+2. 🎉 Merged PR [#428](https://github.com/php/doc-ru/pull/428) in [php/doc-ru](https://github.com/php/doc-ru)
+3. 👍 Approved [#428](https://github.com/php/doc-ru/pull/428#pullrequestreview-1128956466) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 

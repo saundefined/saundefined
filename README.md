@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#discussion_r986844507) in [php/web-php](https://github.com/php/web-php)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. 🎉 Merged PR [#428](https://github.com/php/doc-ru/pull/428) in [php/doc-ru](https://github.com/php/doc-ru)
+1. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#issuecomment-1268205932) in [php/web-php](https://github.com/php/web-php)
+2. ⬆️ Pushed 2 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+3. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#discussion_r986844507) in [php/web-php](https://github.com/php/web-php)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

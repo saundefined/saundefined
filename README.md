@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#290](https://github.com/php/doc-fr/pull/290) in [php/doc-fr](https://github.com/php/doc-fr)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. 👍 Approved [#431](https://github.com/php/doc-ru/pull/431#pullrequestreview-1135263161) in [php/doc-ru](https://github.com/php/doc-ru)
+2. 💬 Commented on [#431](https://github.com/php/doc-ru/pull/431#issuecomment-1272390104) in [php/doc-ru](https://github.com/php/doc-ru)
+3. ❌ Closed PR [#431](https://github.com/php/doc-ru/pull/431) in [php/doc-ru](https://github.com/php/doc-ru)
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. 💪 Opened PR [#290](https://github.com/php/doc-fr/pull/290) in [php/doc-fr](https://github.com/php/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

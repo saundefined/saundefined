@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#432](https://github.com/php/doc-ru/pull/432#pullrequestreview-1135367156) in [php/doc-ru](https://github.com/php/doc-ru)
-2. 👍 Approved [#431](https://github.com/php/doc-ru/pull/431#pullrequestreview-1135263161) in [php/doc-ru](https://github.com/php/doc-ru)
-3. 💬 Commented on [#431](https://github.com/php/doc-ru/pull/431#issuecomment-1272390104) in [php/doc-ru](https://github.com/php/doc-ru)
-4. ❌ Closed PR [#431](https://github.com/php/doc-ru/pull/431) in [php/doc-ru](https://github.com/php/doc-ru)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. 🎉 Merged PR [#432](https://github.com/php/doc-ru/pull/432) in [php/doc-ru](https://github.com/php/doc-ru)
+3. 👍 Approved [#432](https://github.com/php/doc-ru/pull/432#pullrequestreview-1135367156) in [php/doc-ru](https://github.com/php/doc-ru)
+4. 👍 Approved [#431](https://github.com/php/doc-ru/pull/431#pullrequestreview-1135263161) in [php/doc-ru](https://github.com/php/doc-ru)
+5. 💬 Commented on [#431](https://github.com/php/doc-ru/pull/431#issuecomment-1272390104) in [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

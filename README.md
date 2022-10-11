@@ -13,10 +13,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. 🎉 Merged PR [#435](https://github.com/php/doc-ru/pull/435) in [php/doc-ru](https://github.com/php/doc-ru)
-4. 👍 Approved [#435](https://github.com/php/doc-ru/pull/435#pullrequestreview-1136323969) in [php/doc-ru](https://github.com/php/doc-ru)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. 🎉 Merged PR [#436](https://github.com/php/doc-ru/pull/436) in [php/doc-ru](https://github.com/php/doc-ru)
+3. 👍 Approved [#436](https://github.com/php/doc-ru/pull/436#pullrequestreview-1137423966) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
 5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 

@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
-2. ⭐ Starred [spatie/laravel-model-flags](https://github.com/spatie/laravel-model-flags)
-3. 👍 Approved [#66](https://github.com/ThePHPF/thephp.foundation/pull/66#pullrequestreview-1149010734) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-fr](https://github.com/php/doc-fr)
-5. 🎉 Merged PR [#294](https://github.com/php/doc-fr/pull/294) in [php/doc-fr](https://github.com/php/doc-fr)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
+3. ⭐ Starred [spatie/laravel-model-flags](https://github.com/spatie/laravel-model-flags)
+4. 👍 Approved [#66](https://github.com/ThePHPF/thephp.foundation/pull/66#pullrequestreview-1149010734) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-fr](https://github.com/php/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

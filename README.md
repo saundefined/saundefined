@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spatie/laravel-open-telemetry](https://github.com/spatie/laravel-open-telemetry)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. 🔱 Forked [saundefined/awesome-uses](https://github.com/saundefined/awesome-uses) from [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+2. ⭐ Starred [spatie/laravel-open-telemetry](https://github.com/spatie/laravel-open-telemetry)
 3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

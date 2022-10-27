@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1468](https://github.com/wesbos/awesome-uses/pull/1468) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/awesome-uses](https://github.com/saundefined/awesome-uses)
-3. 🔱 Forked [saundefined/awesome-uses](https://github.com/saundefined/awesome-uses) from [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-4. ⭐ Starred [spatie/laravel-open-telemetry](https://github.com/spatie/laravel-open-telemetry)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. 👍 Approved [#9661](https://github.com/php/php-src/pull/9661#pullrequestreview-1158937735) in [php/php-src](https://github.com/php/php-src)
+2. 💬 Commented on [#1916](https://github.com/php/doc-en/pull/1916#issuecomment-1293969113) in [php/doc-en](https://github.com/php/doc-en)
+3. 💪 Opened PR [#1468](https://github.com/wesbos/awesome-uses/pull/1468) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/awesome-uses](https://github.com/saundefined/awesome-uses)
+5. 🔱 Forked [saundefined/awesome-uses](https://github.com/saundefined/awesome-uses) from [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

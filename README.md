@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#292](https://github.com/coderello/laravel-nova-lang/pull/292) in [coderello/laravel-nova-lang](https://github.com/coderello/laravel-nova-lang)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-fr](https://github.com/php/doc-fr)
-3. 🎉 Merged PR [#297](https://github.com/php/doc-fr/pull/297) in [php/doc-fr](https://github.com/php/doc-fr)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-it](https://github.com/php/doc-it)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-es](https://github.com/php/doc-es)
+1. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
+2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
+4. 💪 Opened PR [#292](https://github.com/coderello/laravel-nova-lang/pull/292) in [coderello/laravel-nova-lang](https://github.com/coderello/laravel-nova-lang)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-fr](https://github.com/php/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

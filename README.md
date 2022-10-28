@@ -14,10 +14,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. 👍 Approved [#9661](https://github.com/php/php-src/pull/9661#pullrequestreview-1158937735) in [php/php-src](https://github.com/php/php-src)
-3. 💬 Commented on [#1916](https://github.com/php/doc-en/pull/1916#issuecomment-1293969113) in [php/doc-en](https://github.com/php/doc-en)
-4. 💪 Opened PR [#1468](https://github.com/wesbos/awesome-uses/pull/1468) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-5. ⬆️ Pushed 1 commit(s) to [saundefined/awesome-uses](https://github.com/saundefined/awesome-uses)
+2. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+3. 💪 Opened PR [#296](https://github.com/php/doc-fr/pull/296) in [php/doc-fr](https://github.com/php/doc-fr)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+5. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

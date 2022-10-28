@@ -13,11 +13,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#issuecomment-1294970348) in [php/web-php](https://github.com/php/web-php)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
-3. ⭐ Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-de](https://github.com/php/doc-de)
+2. 🎉 Merged PR [#108](https://github.com/php/doc-de/pull/108) in [php/doc-de](https://github.com/php/doc-de)
+3. 💪 Opened PR [#297](https://github.com/php/doc-fr/pull/297) in [php/doc-fr](https://github.com/php/doc-fr)
+4. 💪 Opened PR [#108](https://github.com/php/doc-de/pull/108) in [php/doc-de](https://github.com/php/doc-de)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

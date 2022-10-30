@@ -14,9 +14,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⭐ Starred [spatie/laravel-horizon-watcher](https://github.com/spatie/laravel-horizon-watcher)
-3. ⬆️ Pushed 2 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+3. ⭐ Starred [spatie/laravel-horizon-watcher](https://github.com/spatie/laravel-horizon-watcher)
+4. ⬆️ Pushed 2 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 5. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
 <!--RECENT_ACTIVITY:end-->
 

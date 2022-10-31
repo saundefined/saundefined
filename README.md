@@ -13,7 +13,11 @@
 #### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Доводы в пользу дженериков](https://sergeypanteleev.com/ru/post/the-case-for-generics)
+- [Почему в PHP нет дженериков?](https://sergeypanteleev.com/ru/post/generics-why-we-cant-have-them)
+- [Погружаемся в дженерики](https://sergeypanteleev.com/ru/post/generics-in-depth)
+- [Дженерики в PHP](https://sergeypanteleev.com/ru/post/generics-in-php)
+- [Правообладатели в 1С-Битрикс](https://sergeypanteleev.com/ru/post/bitrix-third-party-components)
 <!-- BLOG-POST-LIST:END -->
 
 #### 👨‍💻 Recent Activity

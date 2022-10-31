@@ -10,6 +10,12 @@
 - 🍻 [BeerPHP Yaroslavl](https://github.com/beerphp/yaroslavl) organizer
 - ❤️ Love PHP
 
+#### 📜 Recent posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->

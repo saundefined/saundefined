@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#720](https://github.com/php/web-php/pull/720#pullrequestreview-1178935608) in [php/web-php](https://github.com/php/web-php)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. 💪 Opened PR [#302](https://github.com/php/doc-fr/pull/302) in [php/doc-fr](https://github.com/php/doc-fr)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. 👍 Approved [#720](https://github.com/php/web-php/pull/720#pullrequestreview-1178935608) in [php/web-php](https://github.com/php/web-php)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

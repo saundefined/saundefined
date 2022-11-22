@@ -25,9 +25,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-4. 💪 Opened PR [#70](https://github.com/ThePHPF/thephp.foundation/pull/70) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-5. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+5. 💪 Opened PR [#70](https://github.com/ThePHPF/thephp.foundation/pull/70) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

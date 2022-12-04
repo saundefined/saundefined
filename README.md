@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dg/rss-php](https://github.com/dg/rss-php)
-2. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
-3. 💬 Commented on [#72](https://github.com/ThePHPF/thephp.foundation/pull/72#discussion_r1035245219) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-4. 💬 Commented on [#72](https://github.com/ThePHPF/thephp.foundation/pull/72#discussion_r1035246146) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-5. 💬 Commented on [#72](https://github.com/ThePHPF/thephp.foundation/pull/72#discussion_r1035250412) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. 💬 Commented on [#313](https://github.com/php/doc-fr/pull/313#issuecomment-1336369007) in [php/doc-fr](https://github.com/php/doc-fr)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+4. 💪 Opened PR [#313](https://github.com/php/doc-fr/pull/313) in [php/doc-fr](https://github.com/php/doc-fr)
+5. ⭐ Starred [dg/rss-php](https://github.com/dg/rss-php)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

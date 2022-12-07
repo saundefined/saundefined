@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#issuecomment-1340209717) in [php/web-php](https://github.com/php/web-php)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
+1. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#issuecomment-1340816697) in [php/web-php](https://github.com/php/web-php)
+2. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#discussion_r1042075070) in [php/web-php](https://github.com/php/web-php)
 3. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
-4. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#issuecomment-1340114097) in [php/web-php](https://github.com/php/web-php)
-5. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#issuecomment-1340040747) in [php/web-php](https://github.com/php/web-php)
+4. 💬 Commented on [#675](https://github.com/php/web-php/pull/675#discussion_r1042074487) in [php/web-php](https://github.com/php/web-php)
+5. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

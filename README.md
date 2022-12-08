@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#729](https://github.com/php/web-php/issues/729) in [php/web-php](https://github.com/php/web-php)
-2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-3. 💬 Commented on [#729](https://github.com/php/web-php/issues/729#issuecomment-1342682702) in [php/web-php](https://github.com/php/web-php)
+1. 👍 Approved [#730](https://github.com/php/web-php/pull/730#pullrequestreview-1210082573) in [php/web-php](https://github.com/php/web-php)
+2. ⭐ Starred [docker-library/php](https://github.com/docker-library/php)
+3. ✔️ Closed issue [#729](https://github.com/php/web-php/issues/729) in [php/web-php](https://github.com/php/web-php)
 4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+5. 💬 Commented on [#729](https://github.com/php/web-php/issues/729#issuecomment-1342682702) in [php/web-php](https://github.com/php/web-php)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. 💪 Opened PR [#342](https://github.com/php/doc-fr/pull/342) in [php/doc-fr](https://github.com/php/doc-fr)
-3. 💬 Commented on [#14](https://github.com/dflydev/dflydev-dot-access-configuration/pull/14#issuecomment-1364739967) in [dflydev/dflydev-dot-access-configuration](https://github.com/dflydev/dflydev-dot-access-configuration)
-4. 💪 Opened PR [#341](https://github.com/php/doc-fr/pull/341) in [php/doc-fr](https://github.com/php/doc-fr)
-5. 💪 Opened PR [#340](https://github.com/php/doc-fr/pull/340) in [php/doc-fr](https://github.com/php/doc-fr)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 2 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+3. 💪 Opened PR [#342](https://github.com/php/doc-fr/pull/342) in [php/doc-fr](https://github.com/php/doc-fr)
+4. 💬 Commented on [#14](https://github.com/dflydev/dflydev-dot-access-configuration/pull/14#issuecomment-1364739967) in [dflydev/dflydev-dot-access-configuration](https://github.com/dflydev/dflydev-dot-access-configuration)
+5. 💪 Opened PR [#341](https://github.com/php/doc-fr/pull/341) in [php/doc-fr](https://github.com/php/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

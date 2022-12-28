@@ -24,10 +24,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. ⬆️ Pushed 2 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. 💪 Opened PR [#342](https://github.com/php/doc-fr/pull/342) in [php/doc-fr](https://github.com/php/doc-fr)
-5. 💬 Commented on [#14](https://github.com/dflydev/dflydev-dot-access-configuration/pull/14#issuecomment-1364739967) in [dflydev/dflydev-dot-access-configuration](https://github.com/dflydev/dflydev-dot-access-configuration)
+2. 🎉 Merged PR [#453](https://github.com/php/doc-ru/pull/453) in [php/doc-ru](https://github.com/php/doc-ru)
+3. 👍 Approved [#453](https://github.com/php/doc-ru/pull/453#pullrequestreview-1231199323) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

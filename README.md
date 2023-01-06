@@ -13,8 +13,8 @@
 #### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP Annotated – December 2022](https://blog.jetbrains.com/phpstorm/2022/12/php-annotated-december-2022/)
 - [The PHP 8.2 Release Managers](https://24daysindecember.net/2022/12/07/the-php-8-2-release-managers/)
+- [PHP Annotated – December 2022](https://blog.jetbrains.com/phpstorm/2022/12/php-annotated-december-2022/)
 - [PHP Annotated – October 2022](https://blog.jetbrains.com/phpstorm/2022/11/php-annotated-october-2022/)
 - [Доводы в пользу дженериков](https://sergeypanteleev.com/ru/post/the-case-for-generics)
 - [Почему в PHP нет дженериков?](https://sergeypanteleev.com/ru/post/generics-why-we-cant-have-them)

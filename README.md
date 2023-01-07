@@ -24,10 +24,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. 🔱 Forked [saundefined/laravel-notification-channels-telegram](https://github.com/saundefined/laravel-notification-channels-telegram) from [laravel-notification-channels/telegram](https://github.com/laravel-notification-channels/telegram)
-3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-4. 🎉 Merged PR [#745](https://github.com/php/web-php/pull/745) in [php/web-php](https://github.com/php/web-php)
-5. 💪 Opened PR [#745](https://github.com/php/web-php/pull/745) in [php/web-php](https://github.com/php/web-php)
+2. 🎉 Merged PR [#456](https://github.com/php/doc-ru/pull/456) in [php/doc-ru](https://github.com/php/doc-ru)
+3. 👍 Approved [#456](https://github.com/php/doc-ru/pull/456#pullrequestreview-1239660485) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. 🔱 Forked [saundefined/laravel-notification-channels-telegram](https://github.com/saundefined/laravel-notification-channels-telegram) from [laravel-notification-channels/telegram](https://github.com/laravel-notification-channels/telegram)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,8 +23,8 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2157](https://github.com/php/doc-en/pull/2157#issuecomment-1376977887) in [php/doc-en](https://github.com/php/doc-en)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. 💬 Commented on [#2157](https://github.com/php/doc-en/pull/2157#issuecomment-1376977887) in [php/doc-en](https://github.com/php/doc-en)
 3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)

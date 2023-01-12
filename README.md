@@ -26,8 +26,8 @@
 1. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
 2. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
 3. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. 💬 Commented on [#10214](https://github.com/php/php-src/pull/10214#issuecomment-1380332216) in [php/php-src](https://github.com/php/php-src)
+4. 📔 Created new repository [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
+5. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

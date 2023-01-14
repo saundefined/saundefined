@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
+1. ⭐ Starred [spatie/laravel-deleted-models](https://github.com/spatie/laravel-deleted-models)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 3. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
 4. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
-5. 📔 Created new repository [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
+5. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

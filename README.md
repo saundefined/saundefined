@@ -24,10 +24,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)
-3. ⭐ Starred [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
-4. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
-5. 🎉 Merged PR [#10362](https://github.com/php/php-src/pull/10362) in [php/php-src](https://github.com/php/php-src)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+3. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)
+4. ⭐ Starred [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template)
+5. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

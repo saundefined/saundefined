@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#350](https://github.com/php/doc-fr/pull/350) in [php/doc-fr](https://github.com/php/doc-fr)
-2. 💪 Opened PR [#128](https://github.com/php/doc-de/pull/128) in [php/doc-de](https://github.com/php/doc-de)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
-5. ⬆️ Pushed 2 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-de](https://github.com/php/doc-de)
+2. 🎉 Merged PR [#128](https://github.com/php/doc-de/pull/128) in [php/doc-de](https://github.com/php/doc-de)
+3. 💪 Opened PR [#350](https://github.com/php/doc-fr/pull/350) in [php/doc-fr](https://github.com/php/doc-fr)
+4. 💪 Opened PR [#128](https://github.com/php/doc-de/pull/128) in [php/doc-de](https://github.com/php/doc-de)
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

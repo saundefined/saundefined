@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-de](https://github.com/php/doc-de)
-3. 🎉 Merged PR [#128](https://github.com/php/doc-de/pull/128) in [php/doc-de](https://github.com/php/doc-de)
-4. 💪 Opened PR [#350](https://github.com/php/doc-fr/pull/350) in [php/doc-fr](https://github.com/php/doc-fr)
-5. 💪 Opened PR [#128](https://github.com/php/doc-de/pull/128) in [php/doc-de](https://github.com/php/doc-de)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-de](https://github.com/php/doc-de)
+4. 🎉 Merged PR [#128](https://github.com/php/doc-de/pull/128) in [php/doc-de](https://github.com/php/doc-de)
+5. 💪 Opened PR [#350](https://github.com/php/doc-fr/pull/350) in [php/doc-fr](https://github.com/php/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

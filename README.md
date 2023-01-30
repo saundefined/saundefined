@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-2. 💬 Commented on [#74](https://github.com/ThePHPF/thephp.foundation/pull/74#discussion_r1090183138) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-3. 💬 Commented on [#74](https://github.com/ThePHPF/thephp.foundation/pull/74#discussion_r1090186200) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-4. 💬 Commented on [#74](https://github.com/ThePHPF/thephp.foundation/pull/74#discussion_r1090184772) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-5. 💬 Commented on [#74](https://github.com/ThePHPF/thephp.foundation/pull/74#discussion_r1090186044) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+3. 💬 Commented on [#74](https://github.com/ThePHPF/thephp.foundation/pull/74#discussion_r1090183138) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+4. 💬 Commented on [#74](https://github.com/ThePHPF/thephp.foundation/pull/74#discussion_r1090186200) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+5. 💬 Commented on [#74](https://github.com/ThePHPF/thephp.foundation/pull/74#discussion_r1090184772) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

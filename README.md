@@ -24,8 +24,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-3. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)
+2. 🎉 Merged PR [#457](https://github.com/php/doc-ru/pull/457) in [php/doc-ru](https://github.com/php/doc-ru)
+3. 👍 Approved [#457](https://github.com/php/doc-ru/pull/457#pullrequestreview-1278935372) in [php/doc-ru](https://github.com/php/doc-ru)
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
 <!--RECENT_ACTIVITY:end-->

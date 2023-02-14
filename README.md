@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-2. 🎉 Merged PR [#77](https://github.com/ThePHPF/thephp.foundation/pull/77) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-3. 💪 Opened PR [#77](https://github.com/ThePHPF/thephp.foundation/pull/77) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-5. 👍 Approved [#75](https://github.com/ThePHPF/thephp.foundation/pull/75#pullrequestreview-1294984956) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. 🎉 Merged PR [#463](https://github.com/php/doc-ru/pull/463) in [php/doc-ru](https://github.com/php/doc-ru)
+3. 👍 Approved [#463](https://github.com/php/doc-ru/pull/463#pullrequestreview-1296897362) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. 🎉 Merged PR [#464](https://github.com/php/doc-ru/pull/464) in [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

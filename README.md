@@ -24,10 +24,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⭐ Starred [cr1f/writeups](https://github.com/cr1f/writeups)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. 💬 Commented on [#10604](https://github.com/php/php-src/pull/10604#issuecomment-1433363907) in [php/php-src](https://github.com/php/php-src)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+3. ⭐ Starred [cr1f/writeups](https://github.com/cr1f/writeups)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. 💬 Commented on [#10604](https://github.com/php/php-src/pull/10604#issuecomment-1433363907) in [php/php-src](https://github.com/php/php-src)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

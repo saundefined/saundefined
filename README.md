@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#80](https://github.com/ThePHPF/thephp.foundation/pull/80#pullrequestreview-1339581688) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-2. ⬆️ Pushed 3 commit(s) to [php/php-src](https://github.com/php/php-src)
-3. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
-4. ✌️ Released [2.0.0](https://github.com/qq-agency/bitrix-idea/releases/tag/v2.0.0) in [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
-5. ⬆️ Pushed 1 commit(s) to [qq-agency/bitrix-idea](https://github.com/qq-agency/bitrix-idea)
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+2. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)
+3. 👍 Approved [#80](https://github.com/ThePHPF/thephp.foundation/pull/80#pullrequestreview-1339581688) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+4. ⬆️ Pushed 3 commit(s) to [php/php-src](https://github.com/php/php-src)
+5. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

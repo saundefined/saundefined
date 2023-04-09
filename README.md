@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-2. ⬆️ Pushed 2 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-3. ✔️ Closed issue [#2](https://github.com/saundefined/bitrix-idea/issues/2) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-4. 💬 Commented on [#2](https://github.com/saundefined/bitrix-idea/issues/2#issuecomment-1500832957) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-5. ✔️ Closed issue [#1](https://github.com/saundefined/bitrix-idea/issues/1) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+2. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+3. ⬆️ Pushed 2 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+4. ✔️ Closed issue [#2](https://github.com/saundefined/bitrix-idea/issues/2) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+5. 💬 Commented on [#2](https://github.com/saundefined/bitrix-idea/issues/2#issuecomment-1500832957) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

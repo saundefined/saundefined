@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#466](https://github.com/php/doc-ru/issues/466#issuecomment-1502942868) in [php/doc-ru](https://github.com/php/doc-ru)
-2. 💬 Commented on [#468](https://github.com/php/doc-ru/issues/468#issuecomment-1502938975) in [php/doc-ru](https://github.com/php/doc-ru)
-3. ✔️ Closed issue [#468](https://github.com/php/doc-ru/issues/468) in [php/doc-ru](https://github.com/php/doc-ru)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. ⭐ Starred [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+1. ❌ Closed PR [#765](https://github.com/php/web-php/pull/765) in [php/web-php](https://github.com/php/web-php)
+2. 💬 Commented on [#765](https://github.com/php/web-php/pull/765#issuecomment-1503261480) in [php/web-php](https://github.com/php/web-php)
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+4. 💬 Commented on [#466](https://github.com/php/doc-ru/issues/466#issuecomment-1502942868) in [php/doc-ru](https://github.com/php/doc-ru)
+5. 💬 Commented on [#468](https://github.com/php/doc-ru/issues/468#issuecomment-1502938975) in [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

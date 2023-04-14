@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+1. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
 2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-3. ❌ Closed PR [#765](https://github.com/php/web-php/pull/765) in [php/web-php](https://github.com/php/web-php)
-4. 💬 Commented on [#765](https://github.com/php/web-php/pull/765#issuecomment-1503261480) in [php/web-php](https://github.com/php/web-php)
-5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+4. ❌ Closed PR [#765](https://github.com/php/web-php/pull/765) in [php/web-php](https://github.com/php/web-php)
+5. 💬 Commented on [#765](https://github.com/php/web-php/pull/765#issuecomment-1503261480) in [php/web-php](https://github.com/php/web-php)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,10 +23,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-2. 💬 Commented on [#86](https://github.com/ThePHPF/thephp.foundation/pull/86#issuecomment-1512926999) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-4. 📔 Created new repository [saundefined/bi2](https://github.com/saundefined/bi2)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ✔️ Closed issue [#471](https://github.com/php/doc-ru/issues/471) in [php/doc-ru](https://github.com/php/doc-ru)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. 💬 Commented on [#471](https://github.com/php/doc-ru/issues/471#issuecomment-1517728800) in [php/doc-ru](https://github.com/php/doc-ru)
 5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
 <!--RECENT_ACTIVITY:end-->
 

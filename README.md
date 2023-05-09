@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. 💬 Commented on [#2335](https://github.com/php/doc-en/pull/2335#discussion_r1188168456) in [php/doc-en](https://github.com/php/doc-en)
-3. ⭐ Starred [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine)
-4. 💬 Commented on [#11171](https://github.com/php/php-src/issues/11171#issuecomment-1529982280) in [php/php-src](https://github.com/php/php-src)
-5. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+2. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. 💬 Commented on [#2335](https://github.com/php/doc-en/pull/2335#discussion_r1188168456) in [php/doc-en](https://github.com/php/doc-en)
+5. ⭐ Starred [moonshine-software/moonshine](https://github.com/moonshine-software/moonshine)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

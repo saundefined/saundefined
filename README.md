@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-3. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-4. ⭐ Starred [joetannenbaum/terminalia](https://github.com/joetannenbaum/terminalia)
-5. 💬 Commented on [#11279](https://github.com/php/php-src/pull/11279#issuecomment-1556102723) in [php/php-src](https://github.com/php/php-src)
+1. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+2. ⭐ Starred [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+4. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+5. ⭐ Starred [joetannenbaum/terminalia](https://github.com/joetannenbaum/terminalia)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

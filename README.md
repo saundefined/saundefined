@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-2. ⭐ Starred [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-4. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-5. ⭐ Starred [joetannenbaum/terminalia](https://github.com/joetannenbaum/terminalia)
+1. ⭐ Starred [beerphp/batumi](https://github.com/beerphp/batumi)
+2. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+3. ⭐ Starred [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+5. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

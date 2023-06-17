@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#86](https://github.com/ThePHPF/thephp.foundation/pull/86#issuecomment-1592971730) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-3. 💬 Commented on [#90](https://github.com/ThePHPF/thephp.foundation/pull/90#discussion_r1222686550) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-4. 💬 Commented on [#90](https://github.com/ThePHPF/thephp.foundation/pull/90#discussion_r1222685941) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-5. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+1. ⬆️ Pushed 1 commit(s) to [saundefined/.github](https://github.com/saundefined/.github)
+2. 💬 Commented on [#86](https://github.com/ThePHPF/thephp.foundation/pull/86#issuecomment-1592971730) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+4. 💬 Commented on [#90](https://github.com/ThePHPF/thephp.foundation/pull/90#discussion_r1222686550) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+5. 💬 Commented on [#90](https://github.com/ThePHPF/thephp.foundation/pull/90#discussion_r1222685941) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

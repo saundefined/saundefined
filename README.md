@@ -24,10 +24,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. 🎉 Merged PR [#478](https://github.com/php/doc-ru/pull/478) in [php/doc-ru](https://github.com/php/doc-ru)
-3. ⬆️ Pushed 1 commit(s) to [joffer/doc-ru](https://github.com/joffer/doc-ru)
-4. 💬 Commented on [#478](https://github.com/php/doc-ru/pull/478#discussion_r1241126721) in [php/doc-ru](https://github.com/php/doc-ru)
-5. 👍 Approved [#478](https://github.com/php/doc-ru/pull/478#pullrequestreview-1497011507) in [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+3. 🎉 Merged PR [#478](https://github.com/php/doc-ru/pull/478) in [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [joffer/doc-ru](https://github.com/joffer/doc-ru)
+5. 💬 Commented on [#478](https://github.com/php/doc-ru/pull/478#discussion_r1241126721) in [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

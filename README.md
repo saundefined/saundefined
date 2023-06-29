@@ -23,10 +23,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-fr](https://github.com/php/doc-fr)
-2. 🎉 Merged PR [#520](https://github.com/php/doc-fr/pull/520) in [php/doc-fr](https://github.com/php/doc-fr)
-3. ✔️ Closed issue [#470](https://github.com/php/doc-ru/issues/470) in [php/doc-ru](https://github.com/php/doc-ru)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. 💬 Commented on [#91](https://github.com/ThePHPF/thephp.foundation/pull/91#issuecomment-1612861489) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-fr](https://github.com/php/doc-fr)
+3. 🎉 Merged PR [#520](https://github.com/php/doc-fr/pull/520) in [php/doc-fr](https://github.com/php/doc-fr)
+4. ✔️ Closed issue [#470](https://github.com/php/doc-ru/issues/470) in [php/doc-ru](https://github.com/php/doc-ru)
 5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 

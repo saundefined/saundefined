@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#91](https://github.com/ThePHPF/thephp.foundation/pull/91#discussion_r1245672004) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-fr](https://github.com/saundefined/doc-fr)
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-5. 🎉 Merged PR [#479](https://github.com/php/doc-ru/pull/479) in [php/doc-ru](https://github.com/php/doc-ru)
+1. ✔️ Closed issue [#470](https://github.com/php/doc-ru/issues/470) in [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. 💬 Commented on [#91](https://github.com/ThePHPF/thephp.foundation/pull/91#discussion_r1245672004) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+5. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

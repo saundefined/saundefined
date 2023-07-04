@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#535](https://github.com/php/doc-fr/pull/535) in [php/doc-fr](https://github.com/php/doc-fr)
-2. 💪 Opened PR [#534](https://github.com/php/doc-fr/pull/534) in [php/doc-fr](https://github.com/php/doc-fr)
-3. 💪 Opened PR [#533](https://github.com/php/doc-fr/pull/533) in [php/doc-fr](https://github.com/php/doc-fr)
-4. 💪 Opened PR [#532](https://github.com/php/doc-fr/pull/532) in [php/doc-fr](https://github.com/php/doc-fr)
-5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+2. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)
+3. 💪 Opened PR [#535](https://github.com/php/doc-fr/pull/535) in [php/doc-fr](https://github.com/php/doc-fr)
+4. 💪 Opened PR [#534](https://github.com/php/doc-fr/pull/534) in [php/doc-fr](https://github.com/php/doc-fr)
+5. 💪 Opened PR [#533](https://github.com/php/doc-fr/pull/533) in [php/doc-fr](https://github.com/php/doc-fr)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

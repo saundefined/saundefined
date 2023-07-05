@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-4. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)
-5. 💪 Opened PR [#535](https://github.com/php/doc-fr/pull/535) in [php/doc-fr](https://github.com/php/doc-fr)
+1. 💪 Opened PR [#136](https://github.com/php/doc-de/pull/136) in [php/doc-de](https://github.com/php/doc-de)
+2. 💪 Opened PR [#540](https://github.com/php/doc-fr/pull/540) in [php/doc-fr](https://github.com/php/doc-fr)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

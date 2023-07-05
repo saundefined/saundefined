@@ -24,10 +24,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
-2. ⬆️ Pushed 15 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
-4. 💪 Opened PR [#136](https://github.com/php/doc-de/pull/136) in [php/doc-de](https://github.com/php/doc-de)
-5. 💪 Opened PR [#540](https://github.com/php/doc-fr/pull/540) in [php/doc-fr](https://github.com/php/doc-fr)
+2. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
+3. ⬆️ Pushed 15 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
+5. 💪 Opened PR [#136](https://github.com/php/doc-de/pull/136) in [php/doc-de](https://github.com/php/doc-de)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

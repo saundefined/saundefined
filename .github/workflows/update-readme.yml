@@ -18,4 +18,4 @@ jobs:
           
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://sergeypanteleev.com/en/posts/feed,https://thephp.foundation/rss/sergey_panteleev.xml"
+          feed_list: "https://sergeypanteleev.com/en/posts/feed"

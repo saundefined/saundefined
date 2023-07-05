@@ -16,8 +16,8 @@
 - [PHP Core Roundup #14](https://thephp.foundation/blog/2023/07/01/php-core-roundup-14/)
 - [The PHP 8.2 Release Managers](https://24daysindecember.net/2022/12/07/the-php-8-2-release-managers/)
 - [PHP Annotated – October 2022](https://blog.jetbrains.com/phpstorm/2022/11/php-annotated-october-2022/)
-- [Доводы в пользу дженериков](https://sergeypanteleev.com/ru/post/the-case-for-generics)
-- [Почему в PHP нет дженериков?](https://sergeypanteleev.com/ru/post/generics-why-we-cant-have-them)
+- [PHP Annotated – September 2022](https://blog.jetbrains.com/phpstorm/2022/10/php-annotated-september-2022/)
+- [PHP Annotated – August 2022](https://blog.jetbrains.com/phpstorm/2022/08/php-annotated-august-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 👨‍💻 Recent Activity

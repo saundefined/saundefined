@@ -23,10 +23,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
-4. ⬆️ Pushed 15 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-de](https://github.com/php/doc-de)
+2. 🎉 Merged PR [#136](https://github.com/php/doc-de/pull/136) in [php/doc-de](https://github.com/php/doc-de)
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
 5. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)
 <!--RECENT_ACTIVITY:end-->
 

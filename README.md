@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+1. ⬆️ Pushed 1 commit(s) to [saundefined/.github](https://github.com/saundefined/.github)
 2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-3. 💪 Opened PR [#9](https://github.com/saundefined/bitrix-idea/pull/9) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-4. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-5. ⬆️ Pushed 13 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+4. 💪 Opened PR [#9](https://github.com/saundefined/bitrix-idea/pull/9) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

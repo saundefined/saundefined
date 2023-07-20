@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#761](https://github.com/php/web-php/pull/761) in [php/web-php](https://github.com/php/web-php)
-2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-3. 👍 Approved [#761](https://github.com/php/web-php/pull/761#pullrequestreview-1537797684) in [php/web-php](https://github.com/php/web-php)
-4. ⬆️ Pushed 47 commit(s) to [ilukac/web-php](https://github.com/ilukac/web-php)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)
+2. ❌ Closed PR [#761](https://github.com/php/web-php/pull/761) in [php/web-php](https://github.com/php/web-php)
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+4. 👍 Approved [#761](https://github.com/php/web-php/pull/761#pullrequestreview-1537797684) in [php/web-php](https://github.com/php/web-php)
+5. ⬆️ Pushed 47 commit(s) to [ilukac/web-php](https://github.com/ilukac/web-php)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
 3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. ✔️ Closed issue [#2597](https://github.com/php/doc-en/issues/2597) in [php/doc-en](https://github.com/php/doc-en)
-5. ✔️ Closed issue [#2596](https://github.com/php/doc-en/issues/2596) in [php/doc-en](https://github.com/php/doc-en)
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+5. ✔️ Closed issue [#2597](https://github.com/php/doc-en/issues/2597) in [php/doc-en](https://github.com/php/doc-en)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

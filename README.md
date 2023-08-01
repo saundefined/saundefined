@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [php/php-src](https://github.com/php/php-src)
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-de](https://github.com/php/doc-de)
-4. 🎉 Merged PR [#150](https://github.com/php/doc-de/pull/150) in [php/doc-de](https://github.com/php/doc-de)
-5. 💪 Opened PR [#561](https://github.com/php/doc-fr/pull/561) in [php/doc-fr](https://github.com/php/doc-fr)
+1. 💬 Commented on [#94](https://github.com/ThePHPF/thephp.foundation/pull/94#discussion_r1280138584) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+2. 💬 Commented on [#94](https://github.com/ThePHPF/thephp.foundation/pull/94#discussion_r1280140032) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+3. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
+4. ⬆️ Pushed 2 commit(s) to [php/php-src](https://github.com/php/php-src)
+5. ⬆️ Pushed 2 commit(s) to [php/php-src](https://github.com/php/php-src)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

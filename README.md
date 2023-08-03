@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)
-2. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. 👍 Approved [#11836](https://github.com/php/php-src/pull/11836#pullrequestreview-1557200116) in [php/php-src](https://github.com/php/php-src)
-5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+1. 💬 Commented on [#11854](https://github.com/php/php-src/issues/11854#issuecomment-1663877988) in [php/php-src](https://github.com/php/php-src)
+2. ⬆️ Pushed 2 commit(s) to [php/php-src](https://github.com/php/php-src)
+3. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
+4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+5. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

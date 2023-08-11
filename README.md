@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
-2. ⭐ Starred [phpgl/flappyphpant](https://github.com/phpgl/flappyphpant)
-3. 💬 Commented on [#798](https://github.com/php/web-php/issues/798#issuecomment-1666487459) in [php/web-php](https://github.com/php/web-php)
-4. 💪 Opened PR [#2644](https://github.com/php/doc-en/pull/2644) in [php/doc-en](https://github.com/php/doc-en)
-5. 💪 Opened PR [#568](https://github.com/php/doc-fr/pull/568) in [php/doc-fr](https://github.com/php/doc-fr)
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
+3. 🎉 Merged PR [#799](https://github.com/php/web-php/pull/799) in [php/web-php](https://github.com/php/web-php)
+4. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)
+5. ⭐ Starred [phpgl/flappyphpant](https://github.com/phpgl/flappyphpant)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#11868](https://github.com/php/php-src/issues/11868#issuecomment-1681097799) in [php/php-src](https://github.com/php/php-src)
-2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)
-3. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)
-4. 💬 Commented on [#11868](https://github.com/php/php-src/issues/11868#issuecomment-1677049118) in [php/php-src](https://github.com/php/php-src)
-5. ⬆️ Pushed 1 commit(s) to [php/doc-en](https://github.com/php/doc-en)
+1. ✔️ Closed issue [#95](https://github.com/ThePHPF/thephp.foundation/issues/95) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+2. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+3. 🎉 Merged PR [#96](https://github.com/ThePHPF/thephp.foundation/pull/96) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+4. 💪 Opened PR [#96](https://github.com/ThePHPF/thephp.foundation/pull/96) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+5. 💬 Commented on [#11868](https://github.com/php/php-src/issues/11868#issuecomment-1681097799) in [php/php-src](https://github.com/php/php-src)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

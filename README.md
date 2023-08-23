@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#11836](https://github.com/php/php-src/pull/11836) in [php/php-src](https://github.com/php/php-src)
-2. 💬 Commented on [#11836](https://github.com/php/php-src/pull/11836#issuecomment-1685094918) in [php/php-src](https://github.com/php/php-src)
-3. ⬆️ Pushed 2 commit(s) to [php/php-src](https://github.com/php/php-src)
-4. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
-5. 💬 Commented on [#97](https://github.com/ThePHPF/thephp.foundation/issues/97#issuecomment-1684909185) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+1. 💬 Commented on [#98](https://github.com/ThePHPF/thephp.foundation/pull/98#discussion_r1303326268) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+2. ❌ Closed PR [#11836](https://github.com/php/php-src/pull/11836) in [php/php-src](https://github.com/php/php-src)
+3. 💬 Commented on [#11836](https://github.com/php/php-src/pull/11836#issuecomment-1685094918) in [php/php-src](https://github.com/php/php-src)
+4. ⬆️ Pushed 2 commit(s) to [php/php-src](https://github.com/php/php-src)
+5. ⬆️ Pushed 1 commit(s) to [php/php-src](https://github.com/php/php-src)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

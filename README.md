@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [saundefined/doc-ru](https://github.com/saundefined/doc-ru) from [php/doc-ru](https://github.com/php/doc-ru)
-2. 💬 Commented on [#481](https://github.com/php/doc-ru/pull/481#issuecomment-1693788786) in [php/doc-ru](https://github.com/php/doc-ru)
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
-4. 🎉 Merged PR [#481](https://github.com/php/doc-ru/pull/481) in [php/doc-ru](https://github.com/php/doc-ru)
-5. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+1. ⬆️ Pushed 1 commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+3. 🎉 Merged PR [#483](https://github.com/php/doc-ru/pull/483) in [php/doc-ru](https://github.com/php/doc-ru)
+4. 💪 Opened PR [#483](https://github.com/php/doc-ru/pull/483) in [php/doc-ru](https://github.com/php/doc-ru)
+5. 🔱 Forked [saundefined/doc-ru](https://github.com/saundefined/doc-ru) from [php/doc-ru](https://github.com/php/doc-ru)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,8 +23,8 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#99](https://github.com/ThePHPF/thephp.foundation/pull/99#issuecomment-1701543832) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-2. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)
+2. 💬 Commented on [#99](https://github.com/ThePHPF/thephp.foundation/pull/99#issuecomment-1701543832) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
 3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 5. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)

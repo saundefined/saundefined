@@ -25,9 +25,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 2. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
-3. ⬆️ Pushed 1 commit(s) to [saundefined/php-ftw](https://github.com/saundefined/php-ftw)
+3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)
 4. ⬆️ Pushed 1 commit(s) to [saundefined/php-ftw](https://github.com/saundefined/php-ftw)
-5. ⬆️ Pushed 1 commit(s) to [saundefined/php-windows-action](https://github.com/saundefined/php-windows-action)
+5. ⬆️ Pushed 1 commit(s) to [saundefined/php-ftw](https://github.com/saundefined/php-ftw)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#11930](https://github.com/php/php-src/issues/11930) in [php/php-src](https://github.com/php/php-src)
-2. ✔️ Closed issue [#12094](https://github.com/php/php-src/issues/12094) in [php/php-src](https://github.com/php/php-src)
-3. 💬 Commented on [#12094](https://github.com/php/php-src/issues/12094#issuecomment-1702991105) in [php/php-src](https://github.com/php/php-src)
-4. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
-5. 🎉 Merged PR [#101](https://github.com/ThePHPF/thephp.foundation/pull/101) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)
+1. 💪 Opened PR [#24](https://github.com/php/doc-tr/pull/24) in [php/doc-tr](https://github.com/php/doc-tr)
+2. 🔱 Forked [saundefined/doc-tr](https://github.com/saundefined/doc-tr) from [php/doc-tr](https://github.com/php/doc-tr)
+3. ✔️ Closed issue [#11930](https://github.com/php/php-src/issues/11930) in [php/php-src](https://github.com/php/php-src)
+4. ✔️ Closed issue [#12094](https://github.com/php/php-src/issues/12094) in [php/php-src](https://github.com/php/php-src)
+5. 💬 Commented on [#12094](https://github.com/php/php-src/issues/12094#issuecomment-1702991105) in [php/php-src](https://github.com/php/php-src)
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

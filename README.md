@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💬 Commented on [#102](https://github.com/ThePHPF/thephp.foundation/pull/102#discussion_r1317204250) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)<br>
 3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 💬 Commented on [#2739](https://github.com/php/doc-en/pull/2739#issuecomment-1705001482) in [php/doc-en](https://github.com/php/doc-en)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

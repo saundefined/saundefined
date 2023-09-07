@@ -23,10 +23,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#103](https://github.com/ThePHPF/thephp.foundation/pull/103) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. 💬 Commented on [#102](https://github.com/ThePHPF/thephp.foundation/pull/102#discussion_r1317204250) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⭐ Starred [TomasVotruba/lines](https://github.com/TomasVotruba/lines)<br>
+2. 💪 Opened PR [#103](https://github.com/ThePHPF/thephp.foundation/pull/103) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+3. 💬 Commented on [#102](https://github.com/ThePHPF/thephp.foundation/pull/102#discussion_r1317204250) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)<br>
 5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 

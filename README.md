@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 544 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-2. ⭐ Starred [TomasVotruba/lines](https://github.com/TomasVotruba/lines)<br>
-3. 💪 Opened PR [#103](https://github.com/ThePHPF/thephp.foundation/pull/103) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. 💬 Commented on [#102](https://github.com/ThePHPF/thephp.foundation/pull/102#discussion_r1317204250) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/saundefined](https://github.com/saundefined/saundefined)<br>
+1. 💪 Opened PR [#25](https://github.com/php/doc-tr/pull/25) in [php/doc-tr](https://github.com/php/doc-tr)<br>
+2. 💪 Opened PR [#610](https://github.com/php/doc-fr/pull/610) in [php/doc-fr](https://github.com/php/doc-fr)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed 544 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+5. ⭐ Starred [TomasVotruba/lines](https://github.com/TomasVotruba/lines)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

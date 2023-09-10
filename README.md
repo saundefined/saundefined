@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💪 Opened PR [#104](https://github.com/ThePHPF/thephp.foundation/pull/104) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 💪 Opened PR [#25](https://github.com/php/doc-tr/pull/25) in [php/doc-tr](https://github.com/php/doc-tr)<br>
-5. 💪 Opened PR [#610](https://github.com/php/doc-fr/pull/610) in [php/doc-fr](https://github.com/php/doc-fr)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 💪 Opened PR [#25](https://github.com/php/doc-tr/pull/25) in [php/doc-tr](https://github.com/php/doc-tr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

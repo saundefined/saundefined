@@ -23,10 +23,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#813](https://github.com/php/web-php/issues/813#issuecomment-1713963057) in [php/web-php](https://github.com/php/web-php)<br>
-2. 💬 Commented on [#811](https://github.com/php/web-php/pull/811#issuecomment-1713844260) in [php/web-php](https://github.com/php/web-php)<br>
-3. 💪 Opened PR [#104](https://github.com/ThePHPF/thephp.foundation/pull/104) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💬 Commented on [#21](https://github.com/php/web-wiki/issues/21#issuecomment-1714155452) in [php/web-wiki](https://github.com/php/web-wiki)<br>
+2. 💬 Commented on [#813](https://github.com/php/web-php/issues/813#issuecomment-1713963057) in [php/web-php](https://github.com/php/web-php)<br>
+3. 💬 Commented on [#811](https://github.com/php/web-php/pull/811#issuecomment-1713844260) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💪 Opened PR [#104](https://github.com/ThePHPF/thephp.foundation/pull/104) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 

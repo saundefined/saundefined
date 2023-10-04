@@ -23,10 +23,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/sculpin](https://github.com/saundefined/sculpin)<br>
-2. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. 🎉 Merged PR [#105](https://github.com/ThePHPF/thephp.foundation/pull/105) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/sculpin](https://github.com/saundefined/sculpin)<br>
+1. 💬 Commented on [#807](https://github.com/php/web-php/pull/807#discussion_r1345276480) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/sculpin](https://github.com/saundefined/sculpin)<br>
+3. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. 🎉 Merged PR [#105](https://github.com/ThePHPF/thephp.foundation/pull/105) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 5. ⬆️ Pushed 1 commit(s) to [saundefined/sculpin](https://github.com/saundefined/sculpin)<br>
 <!--RECENT_ACTIVITY:end-->
 

@@ -24,10 +24,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. ⭐ Starred [SjonHortensius/phpshell](https://github.com/SjonHortensius/phpshell)<br>
-4. 💬 Commented on [#807](https://github.com/php/web-php/pull/807#discussion_r1345276480) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/sculpin](https://github.com/saundefined/sculpin)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. ⭐ Starred [SjonHortensius/phpshell](https://github.com/SjonHortensius/phpshell)<br>
+5. 💬 Commented on [#807](https://github.com/php/web-php/pull/807#discussion_r1345276480) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

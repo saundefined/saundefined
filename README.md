@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#113](https://github.com/ThePHPF/thephp.foundation/pull/113#pullrequestreview-1661952083) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. 💪 Opened PR [#112](https://github.com/ThePHPF/thephp.foundation/pull/112) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. 💪 Opened PR [#111](https://github.com/ThePHPF/thephp.foundation/pull/111) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+3. ❌ Closed PR [#115](https://github.com/ThePHPF/thephp.foundation/pull/115) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+5. 🎉 Merged PR [#114](https://github.com/ThePHPF/thephp.foundation/pull/114) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

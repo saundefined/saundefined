@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#111](https://github.com/ThePHPF/thephp.foundation/pull/111) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-5. ⭐ Starred [SjonHortensius/phpshell](https://github.com/SjonHortensius/phpshell)<br>
+1. 👍 Approved [#113](https://github.com/ThePHPF/thephp.foundation/pull/113#pullrequestreview-1661952083) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. 💪 Opened PR [#112](https://github.com/ThePHPF/thephp.foundation/pull/112) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+3. 💪 Opened PR [#111](https://github.com/ThePHPF/thephp.foundation/pull/111) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

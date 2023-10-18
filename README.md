@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#116](https://github.com/ThePHPF/thephp.foundation/pull/116#discussion_r1363972257) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. 💬 Commented on [#116](https://github.com/ThePHPF/thephp.foundation/pull/116#discussion_r1363968086) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
-4. 💪 Opened PR [#116](https://github.com/ThePHPF/thephp.foundation/pull/116) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
+1. 👍 Approved [#2864](https://github.com/php/doc-en/pull/2864#pullrequestreview-1685571693) in [php/doc-en](https://github.com/php/doc-en)<br>
+2. 💬 Commented on [#116](https://github.com/ThePHPF/thephp.foundation/pull/116#discussion_r1363972257) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+3. 💬 Commented on [#116](https://github.com/ThePHPF/thephp.foundation/pull/116#discussion_r1363968086) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
+5. 💪 Opened PR [#116](https://github.com/ThePHPF/thephp.foundation/pull/116) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

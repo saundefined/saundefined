@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2864](https://github.com/php/doc-en/pull/2864#pullrequestreview-1685571693) in [php/doc-en](https://github.com/php/doc-en)<br>
-2. 💬 Commented on [#116](https://github.com/ThePHPF/thephp.foundation/pull/116#discussion_r1363972257) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. 💬 Commented on [#116](https://github.com/ThePHPF/thephp.foundation/pull/116#discussion_r1363968086) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
-5. 💪 Opened PR [#116](https://github.com/ThePHPF/thephp.foundation/pull/116) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#817](https://github.com/php/web-php/pull/817) in [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#817](https://github.com/php/web-php/pull/817#pullrequestreview-1689705512) in [php/web-php](https://github.com/php/web-php)<br>
+4. 👍 Approved [#2864](https://github.com/php/doc-en/pull/2864#pullrequestreview-1685571693) in [php/doc-en](https://github.com/php/doc-en)<br>
+5. 💬 Commented on [#116](https://github.com/ThePHPF/thephp.foundation/pull/116#discussion_r1363972257) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

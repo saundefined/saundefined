@@ -23,11 +23,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2881](https://github.com/php/doc-en/pull/2881#issuecomment-1773867611) in [php/doc-en](https://github.com/php/doc-en)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 🎉 Merged PR [#488](https://github.com/php/doc-ru/pull/488) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 👍 Approved [#488](https://github.com/php/doc-ru/pull/488#pullrequestreview-1690009957) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed 1 commit(s) to [aleksandr-shevchenko/doc-ru](https://github.com/aleksandr-shevchenko/doc-ru)<br>
+1. ⬆️ Pushed 2 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 💬 Commented on [#2881](https://github.com/php/doc-en/pull/2881#issuecomment-1773867611) in [php/doc-en](https://github.com/php/doc-en)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 🎉 Merged PR [#488](https://github.com/php/doc-ru/pull/488) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 👍 Approved [#488](https://github.com/php/doc-ru/pull/488#pullrequestreview-1690009957) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

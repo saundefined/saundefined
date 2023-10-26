@@ -24,9 +24,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
-4. 💪 Opened PR [#120](https://github.com/ThePHPF/thephp.foundation/pull/120) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. 🎉 Merged PR [#489](https://github.com/php/doc-ru/pull/489) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#489](https://github.com/php/doc-ru/pull/489#pullrequestreview-1698907103) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 5. ⬆️ Pushed 1 commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 

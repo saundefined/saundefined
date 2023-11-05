@@ -12,11 +12,11 @@
 #### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP Core Roundup #18](https://thephp.foundation/blog/2023/11/01/php-core-roundup-18/)
 - [PHP Core Roundup #17](https://thephp.foundation/blog/2023/10/01/php-core-roundup-17/)
 - [PHP Core Roundup #16](https://thephp.foundation/blog/2023/09/01/php-core-roundup-16/)
 - [PHP Core Roundup #15](https://thephp.foundation/blog/2023/08/01/php-core-roundup-15/)
 - [PHP Core Roundup #14](https://thephp.foundation/blog/2023/07/01/php-core-roundup-14/)
-- [The PHP 8.2 Release Managers](https://24daysindecember.net/2022/12/07/the-php-8-2-release-managers/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 👨‍💻 Recent Activity

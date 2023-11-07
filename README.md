@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/php-documentation](https://github.com/saundefined/php-documentation)<br>
-2. 📔 Created new repository [saundefined/php-documentation](https://github.com/saundefined/php-documentation)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
-5. 💬 Commented on [#2922](https://github.com/php/doc-en/pull/2922#issuecomment-1796386465) in [php/doc-en](https://github.com/php/doc-en)<br>
+1. ⭐ Starred [Roboroads/laravel-tinker](https://github.com/Roboroads/laravel-tinker)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/php-documentation](https://github.com/saundefined/php-documentation)<br>
+4. 📔 Created new repository [saundefined/php-documentation](https://github.com/saundefined/php-documentation)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

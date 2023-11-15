@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)<br>
-4. ⭐ Starred [filamentphp/filament](https://github.com/filamentphp/filament)<br>
-5. 💪 Opened PR [#125](https://github.com/ThePHPF/thephp.foundation/pull/125) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. 💪 Opened PR [#2944](https://github.com/php/doc-en/pull/2944) in [php/doc-en](https://github.com/php/doc-en)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
+4. 💪 Opened PR [#2943](https://github.com/php/doc-en/pull/2943) in [php/doc-en](https://github.com/php/doc-en)<br>
+5. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#843](https://github.com/php/web-php/pull/843) in [php/web-php](https://github.com/php/web-php)<br>
-3. 👍 Approved [#843](https://github.com/php/web-php/pull/843#pullrequestreview-1750843870) in [php/web-php](https://github.com/php/web-php)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 👍 Approved [#131](https://github.com/ThePHPF/thephp.foundation/pull/131#pullrequestreview-1750118311) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#519](https://github.com/php/doc-ru/pull/519) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [mmalferov/doc-ru](https://github.com/mmalferov/doc-ru)<br>
+4. 👍 Approved [#519](https://github.com/php/doc-ru/pull/519#pullrequestreview-1752152951) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 💬 Commented on [#519](https://github.com/php/doc-ru/pull/519#discussion_r1407287341) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

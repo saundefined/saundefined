@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12833](https://github.com/php/php-src/pull/12833) in [php/php-src](https://github.com/php/php-src)<br>
-2. 💬 Commented on [#847](https://github.com/php/web-php/pull/847#issuecomment-1833410762) in [php/web-php](https://github.com/php/web-php)<br>
-3. 💪 Opened PR [#848](https://github.com/php/web-php/pull/848) in [php/web-php](https://github.com/php/web-php)<br>
-4. ✔️ Closed issue [#711](https://github.com/php/web-php/issues/711) in [php/web-php](https://github.com/php/web-php)<br>
-5. ✔️ Closed issue [#489](https://github.com/php/web-php/issues/489) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#848](https://github.com/php/web-php/pull/848) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 🎉 Merged PR [#523](https://github.com/php/doc-ru/pull/523) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [mmalferov/doc-ru](https://github.com/mmalferov/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

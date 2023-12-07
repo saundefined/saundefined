@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#855](https://github.com/php/web-php/pull/855#pullrequestreview-1768386304) in [php/web-php](https://github.com/php/web-php)<br>
-2. 💬 Commented on [#855](https://github.com/php/web-php/pull/855#issuecomment-1843479753) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/.github](https://github.com/saundefined/.github)<br>
-4. 🎉 Merged PR [#543](https://github.com/php/doc-ru/pull/543) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#855](https://github.com/php/web-php/pull/855) in [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#855](https://github.com/php/web-php/pull/855#pullrequestreview-1768386304) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💬 Commented on [#855](https://github.com/php/web-php/pull/855#issuecomment-1843479753) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/.github](https://github.com/saundefined/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

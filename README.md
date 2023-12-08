@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 🎉 Merged PR [#548](https://github.com/php/doc-ru/pull/548) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ⬆️ Pushed 1 commit(s) to [mmalferov/doc-ru](https://github.com/mmalferov/doc-ru)<br>
-4. ⬆️ Pushed 1 commit(s) to [mmalferov/doc-ru](https://github.com/mmalferov/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [phpdigest/dns](https://github.com/phpdigest/dns)<br>
+2. 📔 Created new repository [phpdigest/dns](https://github.com/phpdigest/dns)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 🎉 Merged PR [#548](https://github.com/php/doc-ru/pull/548) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 5. ⬆️ Pushed 1 commit(s) to [mmalferov/doc-ru](https://github.com/mmalferov/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 

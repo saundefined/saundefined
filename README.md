@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 🎉 Merged PR [#550](https://github.com/php/doc-ru/pull/550) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 👍 Approved [#550](https://github.com/php/doc-ru/pull/550#pullrequestreview-1773686247) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 💪 Opened PR [#14](https://github.com/saundefined/web-php/pull/14) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+1. 💬 Commented on [#563](https://github.com/php/doc-ru/pull/563#discussion_r1422057602) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 💬 Commented on [#563](https://github.com/php/doc-ru/pull/563#discussion_r1422057823) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 💬 Commented on [#563](https://github.com/php/doc-ru/pull/563#discussion_r1422055969) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#563](https://github.com/php/doc-ru/pull/563#pullrequestreview-1774466897) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 👍 Approved [#563](https://github.com/php/doc-ru/pull/563#pullrequestreview-1774466897) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 🎉 Merged PR [#564](https://github.com/php/doc-ru/pull/564) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 👍 Approved [#564](https://github.com/php/doc-ru/pull/564#pullrequestreview-1774871265) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 🎉 Merged PR [#562](https://github.com/php/doc-ru/pull/562) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+2. ❌ Closed PR [#16](https://github.com/saundefined/web-php/pull/16) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+3. 💪 Opened PR [#16](https://github.com/saundefined/web-php/pull/16) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. ❌ Closed PR [#15](https://github.com/saundefined/web-php/pull/15) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

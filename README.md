@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 🎉 Merged PR [#555](https://github.com/php/doc-ru/pull/555) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 👍 Approved [#555](https://github.com/php/doc-ru/pull/555#pullrequestreview-1786689378) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💬 Commented on [#134](https://github.com/ThePHPF/thephp.foundation/pull/134#discussion_r1430463242) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. 🎉 Merged PR [#588](https://github.com/php/doc-ru/pull/588) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#588](https://github.com/php/doc-ru/pull/588#pullrequestreview-1787395582) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

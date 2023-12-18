@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 🎉 Merged PR [#587](https://github.com/php/doc-ru/pull/587) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 👍 Approved [#587](https://github.com/php/doc-ru/pull/587#pullrequestreview-1786562684) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#904](https://github.com/php/web-php/pull/904) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed 2 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 🎉 Merged PR [#555](https://github.com/php/doc-ru/pull/555) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#555](https://github.com/php/doc-ru/pull/555#pullrequestreview-1786689378) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

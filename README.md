@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 🎉 Merged PR [#544](https://github.com/php/doc-ru/pull/544) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 👍 Approved [#544](https://github.com/php/doc-ru/pull/544#pullrequestreview-1800544986) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💬 Commented on [#628](https://github.com/php/doc-ru/pull/628#issuecomment-1874154117) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ❌ Closed PR [#628](https://github.com/php/doc-ru/pull/628) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 🎉 Merged PR [#472](https://github.com/php/doc-ru/pull/472) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 🎉 Merged PR [#544](https://github.com/php/doc-ru/pull/544) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

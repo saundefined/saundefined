@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-2. ❌ Closed PR [#762](https://github.com/php/doc-ru/pull/762) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 💬 Commented on [#762](https://github.com/php/doc-ru/pull/762#issuecomment-1900051073) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 💬 Commented on [#763](https://github.com/php/doc-ru/pull/763#issuecomment-1900050575) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ❌ Closed PR [#763](https://github.com/php/doc-ru/pull/763) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#771](https://github.com/php/doc-ru/pull/771) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#771](https://github.com/php/doc-ru/pull/771#pullrequestreview-1832496576) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+5. ❌ Closed PR [#762](https://github.com/php/doc-ru/pull/762) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

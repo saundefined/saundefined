@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
-2. ⭐ Starred [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 🎉 Merged PR [#803](https://github.com/php/doc-ru/pull/803) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 👍 Approved [#803](https://github.com/php/doc-ru/pull/803#pullrequestreview-1845650637) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#807](https://github.com/php/doc-ru/pull/807) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#807](https://github.com/php/doc-ru/pull/807#pullrequestreview-1847048544) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 🎉 Merged PR [#808](https://github.com/php/doc-ru/pull/808) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#932](https://github.com/php/web-php/pull/932) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed 1 commit(s) to [ericvanjohnson/web-php](https://github.com/ericvanjohnson/web-php)<br>
-4. 💬 Commented on [#932](https://github.com/php/web-php/pull/932#discussion_r1473856973) in [php/web-php](https://github.com/php/web-php)<br>
-5. 💬 Commented on [#932](https://github.com/php/web-php/pull/932#discussion_r1473856700) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+3. 🎉 Merged PR [#932](https://github.com/php/web-php/pull/932) in [php/web-php](https://github.com/php/web-php)<br>
+4. ⬆️ Pushed 1 commit(s) to [ericvanjohnson/web-php](https://github.com/ericvanjohnson/web-php)<br>
+5. 💬 Commented on [#932](https://github.com/php/web-php/pull/932#discussion_r1473856973) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

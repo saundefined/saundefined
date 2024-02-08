@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/php/policies/pull/3) in [php/policies](https://github.com/php/policies)<br>
-2. 🔱 Forked [saundefined/policies](https://github.com/saundefined/policies) from [php/policies](https://github.com/php/policies)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#843](https://github.com/php/doc-ru/pull/843) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 🎉 Merged PR [#861](https://github.com/php/doc-ru/pull/861) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 👍 Approved [#861](https://github.com/php/doc-ru/pull/861#pullrequestreview-1865737366) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#843](https://github.com/php/doc-ru/pull/843#pullrequestreview-1869444579) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

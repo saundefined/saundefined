@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#890](https://github.com/php/web-php/pull/890) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed 48 commit(s) to [localheinz/web-php](https://github.com/localheinz/web-php)<br>
-4. 👍 Approved [#890](https://github.com/php/web-php/pull/890#pullrequestreview-1875737279) in [php/web-php](https://github.com/php/web-php)<br>
+1. ❌ Closed PR [#939](https://github.com/php/web-php/pull/939) in [php/web-php](https://github.com/php/web-php)<br>
+2. ❌ Closed PR [#938](https://github.com/php/web-php/pull/938) in [php/web-php](https://github.com/php/web-php)<br>
+3. ❌ Closed PR [#937](https://github.com/php/web-php/pull/937) in [php/web-php](https://github.com/php/web-php)<br>
+4. ❌ Closed PR [#936](https://github.com/php/web-php/pull/936) in [php/web-php](https://github.com/php/web-php)<br>
 5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 

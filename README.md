@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#906](https://github.com/php/doc-ru/pull/906#discussion_r1490726464) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 🎉 Merged PR [#909](https://github.com/php/doc-ru/pull/909) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 👍 Approved [#909](https://github.com/php/doc-ru/pull/909#pullrequestreview-1882285674) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#910](https://github.com/php/doc-ru/pull/910) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#910](https://github.com/php/doc-ru/pull/910#pullrequestreview-1882828468) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 💬 Commented on [#906](https://github.com/php/doc-ru/pull/906#discussion_r1490726464) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 

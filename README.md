@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [saundefined/test-dns](https://github.com/saundefined/test-dns)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 🎉 Merged PR [#918](https://github.com/php/doc-ru/pull/918) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 👍 Approved [#918](https://github.com/php/doc-ru/pull/918#pullrequestreview-1887951330) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
+4. ❌ Closed PR [#1](https://github.com/saundefined/thephpf-dns/pull/1) in [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

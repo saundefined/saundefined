@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
-4. ❌ Closed PR [#1](https://github.com/saundefined/thephpf-dns/pull/1) in [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-en](https://github.com/php/doc-en)<br>
+2. 🎉 Merged PR [#3195](https://github.com/php/doc-en/pull/3195) in [php/doc-en](https://github.com/php/doc-en)<br>
+3. 👍 Approved [#3195](https://github.com/php/doc-en/pull/3195#pullrequestreview-1889234181) in [php/doc-en](https://github.com/php/doc-en)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
 5. ⬆️ Pushed 1 commit(s) to [saundefined/thephpf-dns](https://github.com/saundefined/thephpf-dns)<br>
 <!--RECENT_ACTIVITY:end-->
 

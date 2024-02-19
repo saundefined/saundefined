@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/doc-en](https://github.com/saundefined/doc-en)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#918](https://github.com/php/doc-ru/pull/918) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#918](https://github.com/php/doc-ru/pull/918#pullrequestreview-1887951330) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 🎉 Merged PR [#919](https://github.com/php/doc-ru/pull/919) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

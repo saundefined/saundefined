@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#16](https://github.com/laravel-russia/docs/pull/16) in [laravel-russia/docs](https://github.com/laravel-russia/docs)<br>
-2. 🔱 Forked [saundefined/laravel-russia-docs](https://github.com/saundefined/laravel-russia-docs) from [laravel-russia/docs](https://github.com/laravel-russia/docs)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#924](https://github.com/php/doc-ru/pull/924) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#924](https://github.com/php/doc-ru/pull/924#pullrequestreview-1893416924) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 💪 Opened PR [#18](https://github.com/laravel-russia/docs/pull/18) in [laravel-russia/docs](https://github.com/laravel-russia/docs)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/laravel-russia-docs](https://github.com/saundefined/laravel-russia-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

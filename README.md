@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 🎉 Merged PR [#928](https://github.com/php/doc-ru/pull/928) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ⬆️ Pushed 1 commit(s) to [mmalferov/doc-ru](https://github.com/mmalferov/doc-ru)<br>
-4. 👍 Approved [#928](https://github.com/php/doc-ru/pull/928#pullrequestreview-1899333038) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 💬 Commented on [#928](https://github.com/php/doc-ru/pull/928#discussion_r1501374593) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⭐ Starred [laravel-russia/docs](https://github.com/laravel-russia/docs)<br>
+2. 💪 Opened PR [#27](https://github.com/laravel-russia/docs/pull/27) in [laravel-russia/docs](https://github.com/laravel-russia/docs)<br>
+3. 💪 Opened PR [#26](https://github.com/laravel-russia/docs/pull/26) in [laravel-russia/docs](https://github.com/laravel-russia/docs)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 🎉 Merged PR [#928](https://github.com/php/doc-ru/pull/928) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#259](https://github.com/php/php-langspec/pull/259) in [php/php-langspec](https://github.com/php/php-langspec)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/php-langspec](https://github.com/saundefined/php-langspec)<br>
-3. 🔱 Forked [saundefined/php-langspec](https://github.com/saundefined/php-langspec) from [php/php-langspec](https://github.com/php/php-langspec)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/laravel-russia-docs](https://github.com/saundefined/laravel-russia-docs)<br>
-5. ⭐ Starred [laravel-russia/docs](https://github.com/laravel-russia/docs)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#929](https://github.com/php/doc-ru/pull/929) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#929](https://github.com/php/doc-ru/pull/929#pullrequestreview-1899619657) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 💪 Opened PR [#259](https://github.com/php/php-langspec/pull/259) in [php/php-langspec](https://github.com/php/php-langspec)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/php-langspec](https://github.com/saundefined/php-langspec)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

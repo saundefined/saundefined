@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-3. ❌ Closed PR [#968](https://github.com/php/web-php/pull/968) in [php/web-php](https://github.com/php/web-php)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#961](https://github.com/php/doc-ru/pull/961) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [mmalferov/doc-ru](https://github.com/mmalferov/doc-ru)<br>
+4. 👍 Approved [#961](https://github.com/php/doc-ru/pull/961#pullrequestreview-1937549965) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 👍 Approved [#961](https://github.com/php/doc-ru/pull/961#pullrequestreview-1937549965) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

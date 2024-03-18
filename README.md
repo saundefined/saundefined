@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
-3. ⭐ Starred [tempestphp/highlight](https://github.com/tempestphp/highlight)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 🎉 Merged PR [#961](https://github.com/php/doc-ru/pull/961) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💪 Opened PR [#101](https://github.com/laravelsu/laravel.su/pull/101) in [laravelsu/laravel.su](https://github.com/laravelsu/laravel.su)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/laravel.su](https://github.com/saundefined/laravel.su)<br>
+3. 🔱 Forked [saundefined/laravel.su](https://github.com/saundefined/laravel.su) from [laravelsu/laravel.su](https://github.com/laravelsu/laravel.su)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

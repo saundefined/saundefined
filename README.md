@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 💬 Commented on [#23](https://github.com/php/web-wiki/pull/23#issuecomment-2006855582) in [php/web-wiki](https://github.com/php/web-wiki)<br>
-3. ❌ Closed PR [#23](https://github.com/php/web-wiki/pull/23) in [php/web-wiki](https://github.com/php/web-wiki)<br>
-4. 💪 Opened PR [#101](https://github.com/laravelsu/laravel.su/pull/101) in [laravelsu/laravel.su](https://github.com/laravelsu/laravel.su)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/laravel.su](https://github.com/saundefined/laravel.su)<br>
+1. 💪 Opened PR [#24](https://github.com/php/web-wiki/pull/24) in [php/web-wiki](https://github.com/php/web-wiki)<br>
+2. 🔱 Forked [saundefined/web-wiki](https://github.com/saundefined/web-wiki) from [php/web-wiki](https://github.com/php/web-wiki)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 💬 Commented on [#23](https://github.com/php/web-wiki/pull/23#issuecomment-2006855582) in [php/web-wiki](https://github.com/php/web-wiki)<br>
+5. ❌ Closed PR [#23](https://github.com/php/web-wiki/pull/23) in [php/web-wiki](https://github.com/php/web-wiki)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

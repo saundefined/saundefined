@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#24](https://github.com/php/web-wiki/pull/24) in [php/web-wiki](https://github.com/php/web-wiki)<br>
-2. 🔱 Forked [saundefined/web-wiki](https://github.com/saundefined/web-wiki) from [php/web-wiki](https://github.com/php/web-wiki)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 💬 Commented on [#23](https://github.com/php/web-wiki/pull/23#issuecomment-2006855582) in [php/web-wiki](https://github.com/php/web-wiki)<br>
-5. ❌ Closed PR [#23](https://github.com/php/web-wiki/pull/23) in [php/web-wiki](https://github.com/php/web-wiki)<br>
+1. 👍 Approved [#145](https://github.com/ThePHPF/thephp.foundation/pull/145#pullrequestreview-1952898561) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. 💬 Commented on [#145](https://github.com/ThePHPF/thephp.foundation/pull/145#discussion_r1534328792) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+3. 👍 Approved [#145](https://github.com/ThePHPF/thephp.foundation/pull/145#pullrequestreview-1952898561) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. 💪 Opened PR [#24](https://github.com/php/web-wiki/pull/24) in [php/web-wiki](https://github.com/php/web-wiki)<br>
+5. 🔱 Forked [saundefined/web-wiki](https://github.com/saundefined/web-wiki) from [php/web-wiki](https://github.com/php/web-wiki)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

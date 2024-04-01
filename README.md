@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/laravel.su](https://github.com/saundefined/laravel.su)<br>
-2. 💪 Opened PR [#110](https://github.com/laravelsu/laravel.su/pull/110) in [laravelsu/laravel.su](https://github.com/laravelsu/laravel.su)<br>
-3. ⬆️ Pushed 30 commit(s) to [saundefined/laravel.su](https://github.com/saundefined/laravel.su)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#970](https://github.com/php/web-php/pull/970) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed 1 commit(s) to [pronskiy/thephp.foundation](https://github.com/pronskiy/thephp.foundation)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/laravel.su](https://github.com/saundefined/laravel.su)<br>
+3. 💪 Opened PR [#110](https://github.com/laravelsu/laravel.su/pull/110) in [laravelsu/laravel.su](https://github.com/laravelsu/laravel.su)<br>
+4. ⬆️ Pushed 30 commit(s) to [saundefined/laravel.su](https://github.com/saundefined/laravel.su)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

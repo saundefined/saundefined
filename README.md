@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 👍 Approved [#971](https://github.com/php/web-php/pull/971#pullrequestreview-1985064218) in [php/web-php](https://github.com/php/web-php)<br>
-3. 👍 Approved [#13879](https://github.com/php/php-src/pull/13879#pullrequestreview-1977783703) in [php/php-src](https://github.com/php/php-src)<br>
-4. ⬆️ Pushed 1 commit(s) to [pronskiy/thephp.foundation](https://github.com/pronskiy/thephp.foundation)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/laravel.su](https://github.com/saundefined/laravel.su)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#971](https://github.com/php/web-php/pull/971) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#971](https://github.com/php/web-php/pull/971#pullrequestreview-1985064218) in [php/web-php](https://github.com/php/web-php)<br>
+5. 👍 Approved [#13879](https://github.com/php/php-src/pull/13879#pullrequestreview-1977783703) in [php/php-src](https://github.com/php/php-src)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

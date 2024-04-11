@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#965](https://github.com/php/doc-ru/issues/965#issuecomment-2045746554) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ✔️ Closed issue [#965](https://github.com/php/doc-ru/issues/965) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💬 Commented on [#966](https://github.com/php/doc-ru/issues/966#issuecomment-2049093304) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ✔️ Closed issue [#966](https://github.com/php/doc-ru/issues/966) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#971](https://github.com/php/web-php/pull/971) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💬 Commented on [#965](https://github.com/php/doc-ru/issues/965#issuecomment-2045746554) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ✔️ Closed issue [#965](https://github.com/php/doc-ru/issues/965) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

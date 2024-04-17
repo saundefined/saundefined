@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 0 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-2. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 🎉 Merged PR [#14](https://github.com/derickr/toot-together/pull/14) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 9867 commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⭐ Starred [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. ⬆️ Pushed 0 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+5. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

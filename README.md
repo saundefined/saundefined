@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 🎉 Merged PR [#972](https://github.com/php/doc-ru/pull/972) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 👍 Approved [#972](https://github.com/php/doc-ru/pull/972#pullrequestreview-2029310731) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-qa](https://github.com/php/web-qa)<br>
-5. ⭐ Starred [buggregator/phpstorm-plugin](https://github.com/buggregator/phpstorm-plugin)<br>
+1. ⬆️ Pushed 0 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+3. 🎉 Merged PR [#984](https://github.com/php/web-php/pull/984) in [php/web-php](https://github.com/php/web-php)<br>
+4. ❌ Closed PR [#987](https://github.com/php/web-php/pull/987) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

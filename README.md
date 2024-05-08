@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-2. 💪 Opened PR [#152](https://github.com/ThePHPF/thephp.foundation/pull/152) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
+1. 💬 Commented on [#24](https://github.com/php/web-wiki/pull/24#issuecomment-2100761448) in [php/web-wiki](https://github.com/php/web-wiki)<br>
+2. ❌ Closed PR [#24](https://github.com/php/web-wiki/pull/24) in [php/web-wiki](https://github.com/php/web-wiki)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. 💪 Opened PR [#152](https://github.com/ThePHPF/thephp.foundation/pull/152) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

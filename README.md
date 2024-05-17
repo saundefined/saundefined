@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [phasync/phasync](https://github.com/phasync/phasync)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-3. 🎉 Merged PR [#991](https://github.com/php/web-php/pull/991) in [php/web-php](https://github.com/php/web-php)<br>
-4. 🤝 Became collaborator on [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. ⭐ Starred [phasync/phasync](https://github.com/phasync/phasync)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+4. 🎉 Merged PR [#991](https://github.com/php/web-php/pull/991) in [php/web-php](https://github.com/php/web-php)<br>
+5. 🤝 Became collaborator on [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

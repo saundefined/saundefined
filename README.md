@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#922](https://github.com/php/web-php/issues/922) in [php/web-php](https://github.com/php/web-php)<br>
-2. ✔️ Closed issue [#972](https://github.com/php/web-php/issues/972) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 💪 Opened PR [#994](https://github.com/php/web-php/pull/994) in [php/web-php](https://github.com/php/web-php)<br>
+1. 💬 Commented on [#974](https://github.com/php/doc-ru/pull/974#discussion_r1616776598) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 💬 Commented on [#974](https://github.com/php/doc-ru/pull/974#issuecomment-2134577878) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ✔️ Closed issue [#922](https://github.com/php/web-php/issues/922) in [php/web-php](https://github.com/php/web-php)<br>
+4. ✔️ Closed issue [#972](https://github.com/php/web-php/issues/972) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

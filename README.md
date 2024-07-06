@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#439](https://github.com/php/web-php/pull/439) in [php/web-php](https://github.com/php/web-php)<br>
-3. 👍 Approved [#439](https://github.com/php/web-php/pull/439#pullrequestreview-2161259578) in [php/web-php](https://github.com/php/web-php)<br>
-4. 💬 Commented on [#439](https://github.com/php/web-php/pull/439#issuecomment-2211132627) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. 💪 Opened PR [#1027](https://github.com/php/web-php/pull/1027) in [php/web-php](https://github.com/php/web-php)<br>
+2. ✔️ Closed issue [#964](https://github.com/php/web-php/issues/964) in [php/web-php](https://github.com/php/web-php)<br>
+3. ✔️ Closed issue [#498](https://github.com/php/web-php/issues/498) in [php/web-php](https://github.com/php/web-php)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+5. 🎉 Merged PR [#439](https://github.com/php/web-php/pull/439) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

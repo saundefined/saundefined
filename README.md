@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [pronskiy/thephp.foundation](https://github.com/pronskiy/thephp.foundation)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-4. 🎉 Merged PR [#1032](https://github.com/php/web-php/pull/1032) in [php/web-php](https://github.com/php/web-php)<br>
-5. 👍 Approved [#1032](https://github.com/php/web-php/pull/1032#pullrequestreview-2187395337) in [php/web-php](https://github.com/php/web-php)<br>
+1. ✔️ Closed issue [#996](https://github.com/php/web-php/issues/996) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+3. 🎉 Merged PR [#1035](https://github.com/php/web-php/pull/1035) in [php/web-php](https://github.com/php/web-php)<br>
+4. 👍 Approved [#1035](https://github.com/php/web-php/pull/1035#pullrequestreview-2190076640) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [pronskiy/thephp.foundation](https://github.com/pronskiy/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

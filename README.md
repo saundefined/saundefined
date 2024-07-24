@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#22](https://github.com/derickr/toot-together/pull/22) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#1037](https://github.com/php/web-php/pull/1037) in [php/web-php](https://github.com/php/web-php)<br>
+1. 💬 Commented on [#978](https://github.com/php/doc-ru/pull/978#issuecomment-2247000638) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 💬 Commented on [#3601](https://github.com/php/doc-en/pull/3601#issuecomment-2246999901) in [php/doc-en](https://github.com/php/doc-en)<br>
+3. ❌ Closed PR [#22](https://github.com/derickr/toot-together/pull/22) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

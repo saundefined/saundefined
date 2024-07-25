@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#978](https://github.com/php/doc-ru/pull/978#issuecomment-2249544329) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ❌ Closed PR [#978](https://github.com/php/doc-ru/pull/978) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 💬 Commented on [#978](https://github.com/php/doc-ru/pull/978#issuecomment-2247000638) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 💬 Commented on [#3601](https://github.com/php/doc-en/pull/3601#issuecomment-2246999901) in [php/doc-en](https://github.com/php/doc-en)<br>
-5. ❌ Closed PR [#22](https://github.com/derickr/toot-together/pull/22) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. 💬 Commented on [#979](https://github.com/php/doc-ru/issues/979#issuecomment-2249831347) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ✔️ Closed issue [#979](https://github.com/php/doc-ru/issues/979) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 💬 Commented on [#978](https://github.com/php/doc-ru/pull/978#issuecomment-2249544329) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ❌ Closed PR [#978](https://github.com/php/doc-ru/pull/978) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

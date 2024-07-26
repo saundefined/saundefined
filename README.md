@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1038](https://github.com/php/web-php/pull/1038#discussion_r1692712786) in [php/web-php](https://github.com/php/web-php)<br>
-2. 💬 Commented on [#49](https://github.com/php/web-doc/pull/49#discussion_r1692705877) in [php/web-doc](https://github.com/php/web-doc)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 2 commit(s) to [saundefined/doc-de](https://github.com/saundefined/doc-de)<br>
+2. 💬 Commented on [#1038](https://github.com/php/web-php/pull/1038#discussion_r1692712786) in [php/web-php](https://github.com/php/web-php)<br>
+3. 💬 Commented on [#49](https://github.com/php/web-doc/pull/49#discussion_r1692705877) in [php/web-doc](https://github.com/php/web-doc)<br>
 4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 💪 Opened PR [#179](https://github.com/php/doc-de/pull/179) in [php/doc-de](https://github.com/php/doc-de)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#179](https://github.com/php/doc-de/pull/179) in [php/doc-de](https://github.com/php/doc-de)<br>
-2. 💪 Opened PR [#178](https://github.com/php/doc-de/pull/178) in [php/doc-de](https://github.com/php/doc-de)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/doc-de](https://github.com/php/doc-de)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-5. 💬 Commented on [#979](https://github.com/php/doc-ru/issues/979#issuecomment-2249831347) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💬 Commented on [#1038](https://github.com/php/web-php/pull/1038#discussion_r1692712786) in [php/web-php](https://github.com/php/web-php)<br>
+2. 💬 Commented on [#49](https://github.com/php/web-doc/pull/49#discussion_r1692705877) in [php/web-doc](https://github.com/php/web-doc)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 💪 Opened PR [#179](https://github.com/php/doc-de/pull/179) in [php/doc-de](https://github.com/php/doc-de)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

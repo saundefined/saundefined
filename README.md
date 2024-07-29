@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-doc](https://github.com/php/web-doc)<br>
-2. 🎉 Merged PR [#49](https://github.com/php/web-doc/pull/49) in [php/web-doc](https://github.com/php/web-doc)<br>
-3. 👍 Approved [#49](https://github.com/php/web-doc/pull/49#pullrequestreview-2203164516) in [php/web-doc](https://github.com/php/web-doc)<br>
-4. ⬆️ Pushed 2 commit(s) to [saundefined/doc-de](https://github.com/saundefined/doc-de)<br>
-5. 💬 Commented on [#1038](https://github.com/php/web-php/pull/1038#discussion_r1692712786) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#1038](https://github.com/php/web-php/pull/1038) in [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#1038](https://github.com/php/web-php/pull/1038#pullrequestreview-2204297781) in [php/web-php](https://github.com/php/web-php)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/web-doc](https://github.com/php/web-doc)<br>
+5. 🎉 Merged PR [#49](https://github.com/php/web-doc/pull/49) in [php/web-doc](https://github.com/php/web-doc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#27](https://github.com/php/web-wiki/pull/27#issuecomment-2283251128) in [php/web-wiki](https://github.com/php/web-wiki)<br>
-2. 💬 Commented on [#980](https://github.com/php/doc-ru/issues/980#issuecomment-2275675388) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ✔️ Closed issue [#980](https://github.com/php/doc-ru/issues/980) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 👍 Approved [#42](https://github.com/php/web-qa/pull/42#pullrequestreview-2222938707) in [php/web-qa](https://github.com/php/web-qa)<br>
+1. 💬 Commented on [#994](https://github.com/php/web-php/pull/994#issuecomment-2283391350) in [php/web-php](https://github.com/php/web-php)<br>
+2. 💬 Commented on [#27](https://github.com/php/web-wiki/pull/27#issuecomment-2283251128) in [php/web-wiki](https://github.com/php/web-wiki)<br>
+3. 💬 Commented on [#980](https://github.com/php/doc-ru/issues/980#issuecomment-2275675388) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ✔️ Closed issue [#980](https://github.com/php/doc-ru/issues/980) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

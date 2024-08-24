@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#157](https://github.com/ThePHPF/thephp.foundation/pull/157#pullrequestreview-2248224312) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. 🔱 Forked [saundefined/discourse-nntp-bridge](https://github.com/saundefined/discourse-nntp-bridge) from [sman591/discourse-nntp-bridge](https://github.com/sman591/discourse-nntp-bridge)<br>
 2. 👍 Approved [#157](https://github.com/ThePHPF/thephp.foundation/pull/157#pullrequestreview-2248224312) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed 60 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-5. ❌ Closed PR [#21](https://github.com/saundefined/web-php/pull/21) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+3. 👍 Approved [#157](https://github.com/ThePHPF/thephp.foundation/pull/157#pullrequestreview-2248224312) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed 60 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 🔱 Forked [saundefined/discourse-nntp-bridge](https://github.com/saundefined/discourse-nntp-bridge) from [sman591/discourse-nntp-bridge](https://github.com/sman591/discourse-nntp-bridge)<br>
-3. 👍 Approved [#157](https://github.com/ThePHPF/thephp.foundation/pull/157#pullrequestreview-2248224312) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 🔱 Forked [saundefined/discourse-nntp-bridge](https://github.com/saundefined/discourse-nntp-bridge) from [sman591/discourse-nntp-bridge](https://github.com/sman591/discourse-nntp-bridge)<br>
 4. 👍 Approved [#157](https://github.com/ThePHPF/thephp.foundation/pull/157#pullrequestreview-2248224312) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 👍 Approved [#157](https://github.com/ThePHPF/thephp.foundation/pull/157#pullrequestreview-2248224312) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

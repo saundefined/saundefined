@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#984](https://github.com/php/doc-ru/issues/984#issuecomment-2343502563) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/phpdigest.ru](https://github.com/saundefined/phpdigest.ru)<br>
-3. 💪 Opened PR [#57](https://github.com/php/systems/pull/57) in [php/systems](https://github.com/php/systems)<br>
-4. 🔱 Forked [saundefined/php-systems](https://github.com/saundefined/php-systems) from [php/systems](https://github.com/php/systems)<br>
-5. 💬 Commented on [#984](https://github.com/php/doc-ru/issues/984#issuecomment-2342694795) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#1067](https://github.com/php/web-php/pull/1067) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+4. 🎉 Merged PR [#1066](https://github.com/php/web-php/pull/1066) in [php/web-php](https://github.com/php/web-php)<br>
+5. 👍 Approved [#1066](https://github.com/php/web-php/pull/1066#pullrequestreview-2299288311) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

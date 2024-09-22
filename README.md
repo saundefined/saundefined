@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1077](https://github.com/php/web-php/pull/1077#pullrequestreview-2313512285) in [php/web-php](https://github.com/php/web-php)<br>
-2. 💬 Commented on [#602](https://github.com/php/web-php/pull/602#issuecomment-2359178118) in [php/web-php](https://github.com/php/web-php)<br>
-3. ❌ Closed PR [#602](https://github.com/php/web-php/pull/602) in [php/web-php](https://github.com/php/web-php)<br>
-4. 👍 Approved [#1071](https://github.com/php/web-php/pull/1071#pullrequestreview-2308658181) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+1. 💪 Opened PR [#1079](https://github.com/php/web-php/pull/1079) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+3. 👍 Approved [#1077](https://github.com/php/web-php/pull/1077#pullrequestreview-2313512285) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💬 Commented on [#602](https://github.com/php/web-php/pull/602#issuecomment-2359178118) in [php/web-php](https://github.com/php/web-php)<br>
+5. ❌ Closed PR [#602](https://github.com/php/web-php/pull/602) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

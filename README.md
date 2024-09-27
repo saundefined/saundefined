@@ -24,9 +24,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
 2. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
-3. ⬆️ Pushed 5 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
-4. 💪 Opened PR [#6](https://github.com/pronskiy/phpup/pull/6) in [pronskiy/phpup](https://github.com/pronskiy/phpup)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
+4. ⬆️ Pushed 5 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
+5. 💪 Opened PR [#6](https://github.com/pronskiy/phpup/pull/6) in [pronskiy/phpup](https://github.com/pronskiy/phpup)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](https://github.com/pronskiy/phpup/pull/6) in [pronskiy/phpup](https://github.com/pronskiy/phpup)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/.github](https://github.com/saundefined/.github)<br>
+1. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
+2. ⬆️ Pushed 5 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
+3. 💪 Opened PR [#6](https://github.com/pronskiy/phpup/pull/6) in [pronskiy/phpup](https://github.com/pronskiy/phpup)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
 5. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
 <!--RECENT_ACTIVITY:end-->
 

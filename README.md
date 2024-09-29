@@ -22,8 +22,8 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#19](https://github.com/easysoft/phpmicro/issues/19) in [easysoft/phpmicro](https://github.com/easysoft/phpmicro)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
+1. ✔️ Closed issue [#19](https://github.com/easysoft/phpmicro/issues/19) in [easysoft/phpmicro](https://github.com/easysoft/phpmicro)<br>
+2. ❗️ Opened issue [#19](https://github.com/easysoft/phpmicro/issues/19) in [easysoft/phpmicro](https://github.com/easysoft/phpmicro)<br>
 3. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
 4. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
 5. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>

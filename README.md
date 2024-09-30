@@ -22,9 +22,9 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#19](https://github.com/easysoft/phpmicro/issues/19) in [easysoft/phpmicro](https://github.com/easysoft/phpmicro)<br>
-2. ❗️ Opened issue [#19](https://github.com/easysoft/phpmicro/issues/19) in [easysoft/phpmicro](https://github.com/easysoft/phpmicro)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
+1. 👍 Approved [#166](https://github.com/ThePHPF/thephp.foundation/pull/166#pullrequestreview-2336685856) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. ✔️ Closed issue [#19](https://github.com/easysoft/phpmicro/issues/19) in [easysoft/phpmicro](https://github.com/easysoft/phpmicro)<br>
+3. ❗️ Opened issue [#19](https://github.com/easysoft/phpmicro/issues/19) in [easysoft/phpmicro](https://github.com/easysoft/phpmicro)<br>
 4. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
 5. ⬆️ Pushed 1 commit(s) to [saundefined/phpup](https://github.com/saundefined/phpup)<br>
 <!--RECENT_ACTIVITY:end-->

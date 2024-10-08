@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#1085](https://github.com/php/web-php/pull/1085) in [php/web-php](https://github.com/php/web-php)<br>
-3. 👍 Approved [#1085](https://github.com/php/web-php/pull/1085#pullrequestreview-2350485435) in [php/web-php](https://github.com/php/web-php)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 🎉 Merged PR [#173](https://github.com/ThePHPF/thephp.foundation/pull/173) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. 🎉 Merged PR [#1086](https://github.com/php/web-php/pull/1086) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+4. 🎉 Merged PR [#1087](https://github.com/php/web-php/pull/1087) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-3. 🎉 Merged PR [#1091](https://github.com/php/web-php/pull/1091) in [php/web-php](https://github.com/php/web-php)<br>
-4. 👍 Approved [#1091](https://github.com/php/web-php/pull/1091#pullrequestreview-2366704242) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+2. 🎉 Merged PR [#1092](https://github.com/php/web-php/pull/1092) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+5. 🎉 Merged PR [#1091](https://github.com/php/web-php/pull/1091) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-3. 👍 Approved [#1081](https://github.com/php/web-php/pull/1081#pullrequestreview-2366336150) in [php/web-php](https://github.com/php/web-php)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+3. 🎉 Merged PR [#1091](https://github.com/php/web-php/pull/1091) in [php/web-php](https://github.com/php/web-php)<br>
+4. 👍 Approved [#1091](https://github.com/php/web-php/pull/1091#pullrequestreview-2366704242) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

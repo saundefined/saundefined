@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. ✔️ Closed issue [#1129](https://github.com/php/web-php/issues/1129) in [php/web-php](https://github.com/php/web-php)<br>
-3. 🎉 Merged PR [#1130](https://github.com/php/web-php/pull/1130) in [php/web-php](https://github.com/php/web-php)<br>
-4. 👍 Approved [#1130](https://github.com/php/web-php/pull/1130#pullrequestreview-2447352845) in [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#1131](https://github.com/php/web-php/pull/1131) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+2. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+3. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 💪 Opened PR [#27](https://github.com/derickr/toot-together/pull/27) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+5. 💪 Opened PR [#26](https://github.com/derickr/toot-together/pull/26) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

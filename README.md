@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vjik/specification](https://github.com/vjik/specification)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed 1 commit(s) to [marcosmarcolin/web-php](https://github.com/marcosmarcolin/web-php)<br>
-4. 🎉 Merged PR [#1150](https://github.com/php/web-php/pull/1150) in [php/web-php](https://github.com/php/web-php)<br>
-5. 💬 Commented on [#1150](https://github.com/php/web-php/pull/1150#discussion_r1852237033) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#1151](https://github.com/php/web-php/pull/1151) in [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#1151](https://github.com/php/web-php/pull/1151#pullrequestreview-2451851672) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💬 Commented on [#1151](https://github.com/php/web-php/pull/1151#discussion_r1852362333) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⭐ Starred [vjik/specification](https://github.com/vjik/specification)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

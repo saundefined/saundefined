@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1172](https://github.com/php/web-php/pull/1172) in [php/web-php](https://github.com/php/web-php)<br>
-2. ⬆️ Pushed 3 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. ❌ Closed PR [#7](https://github.com/php/web-master/pull/7) in [php/web-master](https://github.com/php/web-master)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#1170](https://github.com/php/web-php/pull/1170) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#1175](https://github.com/php/web-php/pull/1175) in [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#1175](https://github.com/php/web-php/pull/1175#pullrequestreview-2475688113) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💪 Opened PR [#1172](https://github.com/php/web-php/pull/1172) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 3 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

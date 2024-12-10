@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#1184](https://github.com/php/web-php/pull/1184) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⭐ Starred [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)<br>
-4. 💪 Opened PR [#1183](https://github.com/php/web-php/pull/1183) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⭐ Starred [php-communities/public-site](https://github.com/php-communities/public-site)<br>
+1. 💬 Commented on [#1185](https://github.com/php/web-php/pull/1185#discussion_r1876498636) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+3. 🎉 Merged PR [#1184](https://github.com/php/web-php/pull/1184) in [php/web-php](https://github.com/php/web-php)<br>
+4. ⭐ Starred [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)<br>
+5. 💪 Opened PR [#1183](https://github.com/php/web-php/pull/1183) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

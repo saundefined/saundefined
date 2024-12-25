@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. ✔️ Closed issue [#192](https://github.com/ThePHPF/thephp.foundation/issues/192) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. ⭐ Starred [xepozz/meta-storm-idea-plugin](https://github.com/xepozz/meta-storm-idea-plugin)<br>
+2. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 3. ✔️ Closed issue [#192](https://github.com/ThePHPF/thephp.foundation/issues/192) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. 🎉 Merged PR [#193](https://github.com/ThePHPF/thephp.foundation/pull/193) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 👍 Approved [#193](https://github.com/ThePHPF/thephp.foundation/pull/193#pullrequestreview-2522599395) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ✔️ Closed issue [#192](https://github.com/ThePHPF/thephp.foundation/issues/192) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+5. 🎉 Merged PR [#193](https://github.com/ThePHPF/thephp.foundation/pull/193) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

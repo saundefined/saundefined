@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#1221](https://github.com/php/web-php/pull/1221) in [php/web-php](https://github.com/php/web-php)<br>
-3. 💬 Commented on [#1221](https://github.com/php/web-php/pull/1221#issuecomment-2631603256) in [php/web-php](https://github.com/php/web-php)<br>
+2. ✔️ Closed issue [#688](https://github.com/php/web-php/issues/688) in [php/web-php](https://github.com/php/web-php)<br>
+3. 🎉 Merged PR [#1222](https://github.com/php/web-php/pull/1222) in [php/web-php](https://github.com/php/web-php)<br>
 4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#1220](https://github.com/php/web-php/pull/1220) in [php/web-php](https://github.com/php/web-php)<br>
+5. 🎉 Merged PR [#1221](https://github.com/php/web-php/pull/1221) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

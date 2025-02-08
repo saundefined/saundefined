@@ -23,9 +23,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#1224](https://github.com/php/web-php/pull/1224) in [php/web-php](https://github.com/php/web-php)<br>
-3. 👍 Approved [#1224](https://github.com/php/web-php/pull/1224#pullrequestreview-2601433901) in [php/web-php](https://github.com/php/web-php)<br>
-4. 💬 Commented on [#1224](https://github.com/php/web-php/pull/1224#issuecomment-2642445015) in [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#1225](https://github.com/php/web-php/pull/1225) in [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#1225](https://github.com/php/web-php/pull/1225#pullrequestreview-2604063151) in [php/web-php](https://github.com/php/web-php)<br>
+4. ❌ Closed PR [#196](https://github.com/ThePHPF/thephp.foundation/pull/196) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 

@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#1230](https://github.com/php/web-php/pull/1230) in [php/web-php](https://github.com/php/web-php)<br>
-3. 👍 Approved [#1230](https://github.com/php/web-php/pull/1230#pullrequestreview-2632943650) in [php/web-php](https://github.com/php/web-php)<br>
-4. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. 🎉 Merged PR [#34](https://github.com/derickr/toot-together/pull/34) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+2. 🎉 Merged PR [#1232](https://github.com/php/web-php/pull/1232) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+4. 🎉 Merged PR [#1231](https://github.com/php/web-php/pull/1231) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

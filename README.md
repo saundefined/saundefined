@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#1248](https://github.com/php/web-php/pull/1248) in [php/web-php](https://github.com/php/web-php)<br>
-3. ✔️ Closed issue [#197](https://github.com/ThePHPF/thephp.foundation/issues/197) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. ⬆️ Pushed 1 commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 🎉 Merged PR [#198](https://github.com/ThePHPF/thephp.foundation/pull/198) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. 💪 Opened PR [#200](https://github.com/ThePHPF/thephp.foundation/pull/200) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. 💪 Opened PR [#199](https://github.com/ThePHPF/thephp.foundation/pull/199) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+4. 🎉 Merged PR [#1248](https://github.com/php/web-php/pull/1248) in [php/web-php](https://github.com/php/web-php)<br>
+5. ✔️ Closed issue [#197](https://github.com/ThePHPF/thephp.foundation/issues/197) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

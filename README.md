@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-2. 💪 Opened PR [#200](https://github.com/ThePHPF/thephp.foundation/pull/200) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. 💪 Opened PR [#199](https://github.com/ThePHPF/thephp.foundation/pull/199) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#1248](https://github.com/php/web-php/pull/1248) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+3. 💪 Opened PR [#200](https://github.com/ThePHPF/thephp.foundation/pull/200) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. 💪 Opened PR [#199](https://github.com/ThePHPF/thephp.foundation/pull/199) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

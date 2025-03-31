@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v2025.1.0](https://github.com/saundefined/bitrix-idea/releases/tag/v2025.1.0) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+1. 💬 Commented on [#201](https://github.com/ThePHPF/thephp.foundation/pull/201#issuecomment-2766581122) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. ✌️ Released [v2025.1.0](https://github.com/saundefined/bitrix-idea/releases/tag/v2025.1.0) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
 3. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-4. 💪 Opened PR [#200](https://github.com/ThePHPF/thephp.foundation/pull/200) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 💪 Opened PR [#199](https://github.com/ThePHPF/thephp.foundation/pull/199) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+5. 💪 Opened PR [#200](https://github.com/ThePHPF/thephp.foundation/pull/200) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

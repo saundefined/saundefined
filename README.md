@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SmartTeleMax/MaSha](https://github.com/SmartTeleMax/MaSha)<br>
-2. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 👍 Approved [#1257](https://github.com/php/web-php/pull/1257#pullrequestreview-2763328781) in [php/web-php](https://github.com/php/web-php)<br>
-4. 💪 Opened PR [#36](https://github.com/derickr/toot-together/pull/36) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. 💬 Commented on [#1178](https://github.com/php/web-php/issues/1178#issuecomment-2796704315) in [php/web-php](https://github.com/php/web-php)<br>
+1. 👍 Approved [#244](https://github.com/php/doc-base/pull/244#pullrequestreview-2769461224) in [php/doc-base](https://github.com/php/doc-base)<br>
+2. ⭐ Starred [SmartTeleMax/MaSha](https://github.com/SmartTeleMax/MaSha)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#1257](https://github.com/php/web-php/pull/1257#pullrequestreview-2763328781) in [php/web-php](https://github.com/php/web-php)<br>
+5. 💪 Opened PR [#36](https://github.com/derickr/toot-together/pull/36) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

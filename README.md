@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [php-internal/dload](https://github.com/php-internal/dload)<br>
-2. 💪 Opened PR [#18342](https://github.com/php/php-src/pull/18342) in [php/php-src](https://github.com/php/php-src)<br>
-3. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. 💪 Opened PR [#37](https://github.com/derickr/toot-together/pull/37) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. 👍 Approved [#244](https://github.com/php/doc-base/pull/244#pullrequestreview-2769461224) in [php/doc-base](https://github.com/php/doc-base)<br>
+1. 💬 Commented on [#37](https://github.com/derickr/toot-together/pull/37#discussion_r2048733353) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+2. 💬 Commented on [#18342](https://github.com/php/php-src/pull/18342#issuecomment-2812528977) in [php/php-src](https://github.com/php/php-src)<br>
+3. ⭐ Starred [php-internal/dload](https://github.com/php-internal/dload)<br>
+4. 💪 Opened PR [#18342](https://github.com/php/php-src/pull/18342) in [php/php-src](https://github.com/php/php-src)<br>
+5. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

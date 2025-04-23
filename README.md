@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
-2. ✔️ Closed issue [#1061](https://github.com/php/doc-ru/issues/1061) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 💬 Commented on [#1061](https://github.com/php/doc-ru/issues/1061#issuecomment-2821096266) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/php-src](https://github.com/saundefined/php-src)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 👍 Approved [#1259](https://github.com/php/web-php/pull/1259#pullrequestreview-2786047145) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
+4. ✔️ Closed issue [#1061](https://github.com/php/doc-ru/issues/1061) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

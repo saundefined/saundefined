@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#38](https://github.com/derickr/toot-together/pull/38#discussion_r2080368335) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-2. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💪 Opened PR [#38](https://github.com/derickr/toot-together/pull/38) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
+1. 💬 Commented on [#38](https://github.com/derickr/toot-together/pull/38#issuecomment-2865466664) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+2. 💬 Commented on [#38](https://github.com/derickr/toot-together/pull/38#discussion_r2080368335) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+3. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 💪 Opened PR [#38](https://github.com/derickr/toot-together/pull/38) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 5. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
 <!--RECENT_ACTIVITY:end-->
 

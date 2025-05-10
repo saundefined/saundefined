@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#213](https://github.com/ThePHPF/thephp.foundation/pull/213#pullrequestreview-2827882871) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. 💬 Commented on [#38](https://github.com/derickr/toot-together/pull/38#issuecomment-2865466664) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💬 Commented on [#38](https://github.com/derickr/toot-together/pull/38#discussion_r2080368335) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. 💪 Opened PR [#38](https://github.com/derickr/toot-together/pull/38) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. ⭐ Starred [SerafimArts/OpenRay](https://github.com/SerafimArts/OpenRay)<br>
+2. 👍 Approved [#213](https://github.com/ThePHPF/thephp.foundation/pull/213#pullrequestreview-2827882871) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+3. 💬 Commented on [#38](https://github.com/derickr/toot-together/pull/38#issuecomment-2865466664) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 💬 Commented on [#38](https://github.com/derickr/toot-together/pull/38#discussion_r2080368335) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+5. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

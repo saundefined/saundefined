@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 17 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
-2. ⭐ Starred [BosonPHP/Backend](https://github.com/BosonPHP/Backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
-4. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. 🎉 Merged PR [#38](https://github.com/derickr/toot-together/pull/38) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. ⬆️ Pushed 2 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
+2. ⬆️ Pushed 17 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
+3. ⭐ Starred [BosonPHP/Backend](https://github.com/BosonPHP/Backend)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
+5. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

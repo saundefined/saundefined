@@ -22,9 +22,9 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
-3. 👍 Approved [#216](https://github.com/ThePHPF/thephp.foundation/pull/216#pullrequestreview-2843002523) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 🎉 Merged PR [#1069](https://github.com/php/doc-ru/pull/1069) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#1069](https://github.com/php/doc-ru/pull/1069#pullrequestreview-2848309619) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 4. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
 5. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
 <!--RECENT_ACTIVITY:end-->

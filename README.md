@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#216](https://github.com/ThePHPF/thephp.foundation/pull/216#pullrequestreview-2843002523) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
-3. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
-4. 🤝 Became collaborator on [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
-5. ⭐ Starred [dunglas/frankenphp](https://github.com/dunglas/frankenphp)<br>
+1. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
+3. 👍 Approved [#216](https://github.com/ThePHPF/thephp.foundation/pull/216#pullrequestreview-2843002523) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/php30.website](https://github.com/saundefined/php30.website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

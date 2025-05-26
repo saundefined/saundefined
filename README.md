@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
-2. ⭐ Starred [boson-php/http-contracts](https://github.com/boson-php/http-contracts)<br>
-3. ⭐ Starred [boson-php/http](https://github.com/boson-php/http)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 🎉 Merged PR [#1268](https://github.com/php/web-php/pull/1268) in [php/web-php](https://github.com/php/web-php)<br>
+1. ✔️ Closed issue [#715](https://github.com/php/web-php/issues/715) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+3. 🎉 Merged PR [#1269](https://github.com/php/web-php/pull/1269) in [php/web-php](https://github.com/php/web-php)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

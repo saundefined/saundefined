@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 🎉 Merged PR [#1271](https://github.com/php/web-php/pull/1271) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed 1 commit(s) to [pronskiy/web-php](https://github.com/pronskiy/web-php)<br>
-4. 💬 Commented on [#1271](https://github.com/php/web-php/pull/1271#discussion_r2126592020) in [php/web-php](https://github.com/php/web-php)<br>
-5. 👍 Approved [#1271](https://github.com/php/web-php/pull/1271#pullrequestreview-2896699853) in [php/web-php](https://github.com/php/web-php)<br>
+1. 💬 Commented on [#1074](https://github.com/php/doc-ru/issues/1074#issuecomment-2940709336) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ✔️ Closed issue [#1074](https://github.com/php/doc-ru/issues/1074) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+4. 🎉 Merged PR [#1271](https://github.com/php/web-php/pull/1271) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed 1 commit(s) to [pronskiy/web-php](https://github.com/pronskiy/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

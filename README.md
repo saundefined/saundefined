@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
-2. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 🎉 Merged PR [#40](https://github.com/derickr/toot-together/pull/40) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
-5. ⬆️ Pushed 2 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
+3. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 🎉 Merged PR [#40](https://github.com/derickr/toot-together/pull/40) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+5. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

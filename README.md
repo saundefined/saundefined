@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
-2. ⬆️ Pushed 3 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
-3. 💬 Commented on [#40](https://github.com/derickr/toot-together/pull/40#issuecomment-2952495969) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. 💪 Opened PR [#40](https://github.com/derickr/toot-together/pull/40) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. ⬆️ Pushed 2 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
+2. 💬 Commented on [#40](https://github.com/derickr/toot-together/pull/40#issuecomment-2953895412) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
+4. ⬆️ Pushed 3 commit(s) to [saundefined/php30.ru](https://github.com/saundefined/php30.ru)<br>
+5. 💬 Commented on [#40](https://github.com/derickr/toot-together/pull/40#issuecomment-2952495969) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

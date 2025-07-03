@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-2. 💪 Opened PR [#43](https://github.com/derickr/toot-together/pull/43) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💪 Opened PR [#42](https://github.com/derickr/toot-together/pull/42) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [php/web-php-distributions](https://github.com/php/web-php-distributions)<br>
+2. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+3. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+5. 💪 Opened PR [#43](https://github.com/derickr/toot-together/pull/43) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

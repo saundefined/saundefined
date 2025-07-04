@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-2. 🎉 Merged PR [#43](https://github.com/derickr/toot-together/pull/43) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💬 Commented on [#42](https://github.com/derickr/toot-together/pull/42#discussion_r2183029869) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. 💬 Commented on [#43](https://github.com/derickr/toot-together/pull/43#issuecomment-3032611183) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. 💬 Commented on [#42](https://github.com/derickr/toot-together/pull/42#issuecomment-3033140212) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+2. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+3. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. ⬆️ Pushed 1 commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+5. 🎉 Merged PR [#43](https://github.com/derickr/toot-together/pull/43) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

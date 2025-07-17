@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#19159](https://github.com/php/php-src/pull/19159#pullrequestreview-3030262987) in [php/php-src](https://github.com/php/php-src)<br>
-2. 👍 Approved [#48](https://github.com/derickr/toot-together/pull/48#pullrequestreview-3030175842) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 👍 Approved [#46](https://github.com/derickr/toot-together/pull/46#pullrequestreview-3030104199) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. 👍 Approved [#1294](https://github.com/php/web-php/pull/1294#pullrequestreview-3016977674) in [php/web-php](https://github.com/php/web-php)<br>
-5. 👍 Approved [#1294](https://github.com/php/web-php/pull/1294#pullrequestreview-3014729095) in [php/web-php](https://github.com/php/web-php)<br>
+1. ✔️ Closed issue [#1086](https://github.com/php/doc-ru/issues/1086) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 👍 Approved [#19159](https://github.com/php/php-src/pull/19159#pullrequestreview-3030262987) in [php/php-src](https://github.com/php/php-src)<br>
+3. 👍 Approved [#48](https://github.com/derickr/toot-together/pull/48#pullrequestreview-3030175842) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 👍 Approved [#46](https://github.com/derickr/toot-together/pull/46#pullrequestreview-3030104199) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+5. 👍 Approved [#1294](https://github.com/php/web-php/pull/1294#pullrequestreview-3016977674) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

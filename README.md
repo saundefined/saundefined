@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-2. 💬 Commented on [#1312](https://github.com/php/web-php/pull/1312#issuecomment-3184654985) in [php/web-php](https://github.com/php/web-php)<br>
-3. 💪 Opened PR [#1312](https://github.com/php/web-php/pull/1312) in [php/web-php](https://github.com/php/web-php)<br>
-4. 💬 Commented on [#1309](https://github.com/php/web-php/pull/1309#discussion_r2265159249) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed 1 commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+1. ⬆️ Pushed 1 commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 🎉 Merged PR [#1309](https://github.com/php/web-php/pull/1309) in [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#1309](https://github.com/php/web-php/pull/1309#pullrequestreview-3125043712) in [php/web-php](https://github.com/php/web-php)<br>
+4. ⬆️ Pushed 1 commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+5. 💬 Commented on [#1312](https://github.com/php/web-php/pull/1312#issuecomment-3184654985) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

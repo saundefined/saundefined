@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yiisoft/active-record](https://github.com/yiisoft/active-record)<br>
-2. ⭐ Starred [moonshine-software/moon-vibe](https://github.com/moonshine-software/moon-vibe)<br>
-3. 👍 Approved [#1425](https://github.com/php/web-php/pull/1425#pullrequestreview-3225364186) in [php/web-php](https://github.com/php/web-php)<br>
-4. 👍 Approved [#58](https://github.com/derickr/toot-together/pull/58#pullrequestreview-3213238586) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. 👍 Approved [#1404](https://github.com/php/web-php/pull/1404#pullrequestreview-3197148958) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⭐ Starred [php-mcp/server](https://github.com/php-mcp/server)<br>
+2. ⭐ Starred [yiisoft/active-record](https://github.com/yiisoft/active-record)<br>
+3. ⭐ Starred [moonshine-software/moon-vibe](https://github.com/moonshine-software/moon-vibe)<br>
+4. 👍 Approved [#1425](https://github.com/php/web-php/pull/1425#pullrequestreview-3225364186) in [php/web-php](https://github.com/php/web-php)<br>
+5. 👍 Approved [#58](https://github.com/derickr/toot-together/pull/58#pullrequestreview-3213238586) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

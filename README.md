@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-2. 💪 Opened PR [#64](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💪 Opened PR [#63](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+1. ⭐ Starred [php-testo/testo](https://github.com/php-testo/testo)<br>
+2. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+3. 💪 Opened PR [#64](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 💪 Opened PR [#63](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 

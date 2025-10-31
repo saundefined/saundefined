@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [php-testo/testo](https://github.com/php-testo/testo)<br>
-2. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💪 Opened PR [#64](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. 💪 Opened PR [#63](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+1. 👍 Approved [#1516](https://github.com/php/web-php/pull/1516#pullrequestreview-3403148372) in [php/web-php](https://github.com/php/web-php)<br>
+2. 👍 Approved [#1569](https://github.com/php/web-php/pull/1569#pullrequestreview-3403125447) in [php/web-php](https://github.com/php/web-php)<br>
+3. 💬 Commented on [#1569](https://github.com/php/web-php/pull/1569#issuecomment-3471962174) in [php/web-php](https://github.com/php/web-php)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+5. ⭐ Starred [php-testo/testo](https://github.com/php-testo/testo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

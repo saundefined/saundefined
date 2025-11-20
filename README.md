@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-2. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-4. 💪 Opened PR [#1635](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-5. ❌ Closed PR [#1630](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⭐ Starred [roxblnfk/unpoly](https://github.com/roxblnfk/unpoly)<br>
+2. ⭐ Starred [moonshine-software/forty-five](https://github.com/moonshine-software/forty-five)<br>
+3. ⭐ Starred [php-cli/terminal](https://github.com/php-cli/terminal)<br>
+4. ⭐ Starred [roadrunner-plugins/sentry-transport](https://github.com/roadrunner-plugins/sentry-transport)<br>
+5. ⭐ Starred [llm-agents-php/mcp-server](https://github.com/llm-agents-php/mcp-server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

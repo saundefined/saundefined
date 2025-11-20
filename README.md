@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [roxblnfk/unpoly](https://github.com/roxblnfk/unpoly)<br>
-2. ⭐ Starred [moonshine-software/forty-five](https://github.com/moonshine-software/forty-five)<br>
-3. ⭐ Starred [php-cli/terminal](https://github.com/php-cli/terminal)<br>
-4. ⭐ Starred [roadrunner-plugins/sentry-transport](https://github.com/roadrunner-plugins/sentry-transport)<br>
-5. ⭐ Starred [llm-agents-php/mcp-server](https://github.com/llm-agents-php/mcp-server)<br>
+1. 👍 Approved [#1636](https://github.com/php/web-php/pull/1636#pullrequestreview-3489819827) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⭐ Starred [roxblnfk/unpoly](https://github.com/roxblnfk/unpoly)<br>
+3. ⭐ Starred [moonshine-software/forty-five](https://github.com/moonshine-software/forty-five)<br>
+4. ⭐ Starred [php-cli/terminal](https://github.com/php-cli/terminal)<br>
+5. ⭐ Starred [roadrunner-plugins/sentry-transport](https://github.com/roadrunner-plugins/sentry-transport)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

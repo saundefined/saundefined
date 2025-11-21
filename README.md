@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed undefined commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)<br>
+1. 💪 Opened PR [#1129](undefined) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 3. ⬆️ Pushed undefined commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)<br>
-4. 💪 Opened PR [#1128](undefined) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed undefined commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)<br>
+4. ⬆️ Pushed undefined commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)<br>
+5. 💪 Opened PR [#1128](undefined) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

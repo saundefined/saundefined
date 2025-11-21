@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 👍 Approved [#1647](https://github.com/php/web-php/pull/1647#pullrequestreview-3490139470) in [php/web-php](https://github.com/php/web-php)<br>
-3. 👍 Approved [#1636](https://github.com/php/web-php/pull/1636#pullrequestreview-3489819827) in [php/web-php](https://github.com/php/web-php)<br>
-4. ⭐ Starred [roxblnfk/unpoly](https://github.com/roxblnfk/unpoly)<br>
-5. ⭐ Starred [moonshine-software/forty-five](https://github.com/moonshine-software/forty-five)<br>
+2. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#1647](https://github.com/php/web-php/pull/1647#pullrequestreview-3490139470) in [php/web-php](https://github.com/php/web-php)<br>
+4. 👍 Approved [#1636](https://github.com/php/web-php/pull/1636#pullrequestreview-3489819827) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⭐ Starred [roxblnfk/unpoly](https://github.com/roxblnfk/unpoly)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

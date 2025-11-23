@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 👍 Approved [#1652](https://github.com/php/web-php/pull/1652#pullrequestreview-3496942261) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-4. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 👍 Approved [#248](https://github.com/ThePHPF/thephp.foundation/pull/248#pullrequestreview-3494245169) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. 💬 Commented on [#1130](https://github.com/php/doc-ru/issues/1130#issuecomment-3567848829) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ✔️ Closed issue [#1130](https://github.com/php/doc-ru/issues/1130) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+5. 👍 Approved [#1652](https://github.com/php/web-php/pull/1652#pullrequestreview-3496942261) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

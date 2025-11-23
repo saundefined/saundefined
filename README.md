@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1130](https://github.com/php/doc-ru/issues/1130#issuecomment-3567848829) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ✔️ Closed issue [#1130](https://github.com/php/doc-ru/issues/1130) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 👍 Approved [#1652](https://github.com/php/web-php/pull/1652#pullrequestreview-3496942261) in [php/web-php](https://github.com/php/web-php)<br>
+1. ⬆️ Pushed undefined commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)<br>
+2. 💬 Commented on [#1130](https://github.com/php/doc-ru/issues/1130#issuecomment-3567848829) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ✔️ Closed issue [#1130](https://github.com/php/doc-ru/issues/1130) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

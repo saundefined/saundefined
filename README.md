@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed undefined commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)<br>
-5. ⬆️ Pushed undefined commit(s) to [saundefined/doc-ru](https://github.com/saundefined/doc-ru)<br>
+2. 👍 Approved [#1665](https://github.com/php/web-php/pull/1665#pullrequestreview-3502252158) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

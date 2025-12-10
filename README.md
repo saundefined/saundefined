@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-2. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+1. ✔️ Closed issue [#20](https://github.com/saundefined/bitrix-idea/issues/20) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+2. 💬 Commented on [#20](https://github.com/saundefined/bitrix-idea/issues/20#issuecomment-3636001208) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+3. ⬆️ Pushed undefined commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
 4. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-5. 👍 Approved [#1675](https://github.com/php/web-php/pull/1675#pullrequestreview-3522178490) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

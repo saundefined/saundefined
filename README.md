@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+2. 👍 Approved [#1707](https://github.com/php/web-php/pull/1707#pullrequestreview-3589444578) in [php/web-php](https://github.com/php/web-php)<br>
 3. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-4. 👍 Approved [#1704](https://github.com/php/web-php/pull/1704#pullrequestreview-3579776203) in [php/web-php](https://github.com/php/web-php)<br>
-5. ✔️ Closed issue [#20](https://github.com/saundefined/bitrix-idea/issues/20) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1136](https://github.com/php/doc-ru/issues/1136) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 💪 Opened PR [#71](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💪 Opened PR [#1717](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-4. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-5. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+2. ✔️ Closed issue [#1136](https://github.com/php/doc-ru/issues/1136) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 💪 Opened PR [#71](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 💪 Opened PR [#1717](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

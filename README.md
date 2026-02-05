@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1146](https://github.com/php/doc-ru/pull/1146#pullrequestreview-3743617328) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. 👍 Approved [#1147](https://github.com/php/doc-ru/pull/1147#pullrequestreview-3743609566) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⭐ Starred [phptg/bot-api](https://github.com/phptg/bot-api)<br>
+1. ❗️ Opened issue [#1149](https://github.com/php/doc-ru/issues/1149) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 💬 Commented on [#1148](https://github.com/php/doc-ru/issues/1148#issuecomment-3856485255) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ✔️ Closed issue [#1148](https://github.com/php/doc-ru/issues/1148) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 

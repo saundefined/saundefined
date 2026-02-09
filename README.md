@@ -24,9 +24,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-4. 💪 Opened PR [#1806](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+5. 💪 Opened PR [#1806](undefined) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

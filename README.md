@@ -22,9 +22,9 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. 👍 Approved [#1807](https://github.com/php/web-php/pull/1807#pullrequestreview-3774455652) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#1807](https://github.com/php/web-php/pull/1807#pullrequestreview-3774455652) in [php/web-php](https://github.com/php/web-php)<br>
 4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->

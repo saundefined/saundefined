@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#68](https://github.com/derickr/toot-together/pull/68#pullrequestreview-3807855799) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-2. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💪 Opened PR [#74](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+1. ✔️ Closed issue [#1149](https://github.com/php/doc-ru/issues/1149) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 👍 Approved [#68](https://github.com/derickr/toot-together/pull/68#pullrequestreview-3807855799) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+3. ⬆️ Pushed undefined commit(s) to [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 💪 Opened PR [#74](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ✔️ Closed issue [#1151](https://github.com/php/doc-ru/issues/1151) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 👍 Approved [#1152](https://github.com/php/doc-ru/pull/1152#pullrequestreview-3865678850) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ✔️ Closed issue [#1149](https://github.com/php/doc-ru/issues/1149) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 👍 Approved [#68](https://github.com/derickr/toot-together/pull/68#pullrequestreview-3807855799) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. 💬 Commented on [#253](https://github.com/ThePHPF/thephp.foundation/pull/253#issuecomment-3972278187) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ✔️ Closed issue [#1151](https://github.com/php/doc-ru/issues/1151) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#1152](https://github.com/php/doc-ru/pull/1152#pullrequestreview-3865678850) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ✔️ Closed issue [#1149](https://github.com/php/doc-ru/issues/1149) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

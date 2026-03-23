@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#40](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-2. ❌ Closed PR [#39](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-4. 💪 Opened PR [#39](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-5. ❌ Closed PR [#38](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+1. 💪 Opened PR [#45](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+2. ❌ Closed PR [#44](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+3. ❌ Closed PR [#44](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+5. 💪 Opened PR [#44](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

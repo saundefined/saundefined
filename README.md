@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#49](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-2. ❌ Closed PR [#48](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-4. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+1. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+2. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+3. 💪 Opened PR [#50](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. ❌ Closed PR [#49](undefined) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 

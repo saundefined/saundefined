@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1888](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-2. ❌ Closed PR [#1887](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-3. 💪 Opened PR [#1887](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-4. ❌ Closed PR [#1886](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-5. 💪 Opened PR [#1886](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+1. ❌ Closed PR [#1888](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+2. 💪 Opened PR [#1888](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+3. ❌ Closed PR [#1887](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💪 Opened PR [#1887](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+5. ❌ Closed PR [#1886](undefined) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

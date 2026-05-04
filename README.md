@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-2. 💬 Commented on [#1266](https://github.com/php/doc-ru/issues/1266#issuecomment-4367337503) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ✔️ Closed issue [#1266](https://github.com/php/doc-ru/issues/1266) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ❌ Closed PR [#1888](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+1. 💬 Commented on [#1896](https://github.com/php/web-php/pull/1896#issuecomment-4370655668) in [php/web-php](https://github.com/php/web-php)<br>
+2. ⬆️ Pushed undefined commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+3. 💬 Commented on [#1266](https://github.com/php/doc-ru/issues/1266#issuecomment-4367337503) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ✔️ Closed issue [#1266](https://github.com/php/doc-ru/issues/1266) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

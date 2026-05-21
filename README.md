@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1349](https://github.com/php/doc-ru/pull/1349#pullrequestreview-4337887489) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ✔️ Closed issue [#1310](https://github.com/php/doc-ru/issues/1310) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ✔️ Closed issue [#1175](https://github.com/php/doc-ru/issues/1175) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💬 Commented on [#1351](https://github.com/php/doc-ru/pull/1351#discussion_r3281668705) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 💬 Commented on [#1351](https://github.com/php/doc-ru/pull/1351#discussion_r3281654239) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 💬 Commented on [#1353](https://github.com/php/doc-ru/pull/1353#discussion_r3281626626) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#1349](https://github.com/php/doc-ru/pull/1349#pullrequestreview-4337887489) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 

@@ -23,9 +23,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ✔️ Closed issue [#1239](https://github.com/php/doc-ru/issues/1239) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 👍 Approved [#1331](https://github.com/php/doc-ru/pull/1331#pullrequestreview-4334957714) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ✔️ Closed issue [#1207](https://github.com/php/doc-ru/issues/1207) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#1340](https://github.com/php/doc-ru/pull/1340#pullrequestreview-4335801925) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ✔️ Closed issue [#1313](https://github.com/php/doc-ru/issues/1313) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 

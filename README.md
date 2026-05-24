@@ -25,8 +25,8 @@
 1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 💬 Commented on [#1351](https://github.com/php/doc-ru/pull/1351#discussion_r3281668705) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 💬 Commented on [#1351](https://github.com/php/doc-ru/pull/1351#discussion_r3281654239) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 💬 Commented on [#1351](https://github.com/php/doc-ru/pull/1351#discussion_r3281668705) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

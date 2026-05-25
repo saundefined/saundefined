@@ -23,10 +23,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ✔️ Closed issue [#1367](https://github.com/php/doc-ru/issues/1367) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. 👍 Approved [#1373](https://github.com/php/doc-ru/pull/1373#pullrequestreview-4356383631) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ✔️ Closed issue [#1366](https://github.com/php/doc-ru/issues/1366) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 👍 Approved [#1381](https://github.com/php/doc-ru/pull/1381#pullrequestreview-4358256647) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. ⬆️ Pushed undefined commit(s) to [lacatoire/doc-ru](https://github.com/lacatoire/doc-ru)<br>
+5. 👍 Approved [#1379](https://github.com/php/doc-ru/pull/1379#pullrequestreview-4358238783) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

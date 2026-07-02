@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#22535](https://github.com/php/php-src/pull/22535#pullrequestreview-4609992866) in [php/php-src](https://github.com/php/php-src)<br>
-2. ⬆️ Pushed undefined commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
-4. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
-5. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
+1. 💪 Opened PR [#86](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+2. 💪 Opened PR [#85](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+3. ❌ Closed PR [#83](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+4. 👍 Approved [#22535](https://github.com/php/php-src/pull/22535#pullrequestreview-4609992866) in [php/php-src](https://github.com/php/php-src)<br>
+5. ⬆️ Pushed undefined commit(s) to [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
-2. 💬 Commented on [#297](https://github.com/ThePHPF/thephp.foundation/pull/297#issuecomment-4893277011) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. ⬆️ Pushed undefined commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
-4. 💪 Opened PR [#297](undefined) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 💬 Commented on [#19](https://github.com/saundefined/bitrix-idea/issues/19#issuecomment-4883697063) in [saundefined/bitrix-idea](https://github.com/saundefined/bitrix-idea)<br>
+1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#1515](https://github.com/php/doc-ru/pull/1515#pullrequestreview-4656525243) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed undefined commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

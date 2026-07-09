@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⭐ Starred [php/infrastructure](https://github.com/php/infrastructure)<br>
+2. ✔️ Closed issue [#1519](https://github.com/php/doc-ru/issues/1519) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 👍 Approved [#1515](https://github.com/php/doc-ru/pull/1515#pullrequestreview-4656525243) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed undefined commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

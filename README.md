@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1519](https://github.com/php/doc-ru/issues/1519#issuecomment-4934436595) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ⭐ Starred [php/infrastructure](https://github.com/php/infrastructure)<br>
-3. ✔️ Closed issue [#1519](https://github.com/php/doc-ru/issues/1519) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed undefined commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
+2. ⬆️ Pushed undefined commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
+3. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. 👍 Approved [#298](https://github.com/ThePHPF/thephp.foundation/pull/298#pullrequestreview-4672804114) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+5. ⬆️ Pushed undefined commit(s) to [saundefined/thephp.foundation](https://github.com/saundefined/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

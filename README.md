@@ -22,9 +22,9 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [php/infrastructure](https://github.com/php/infrastructure)<br>
-2. ✔️ Closed issue [#1519](https://github.com/php/doc-ru/issues/1519) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 💬 Commented on [#1519](https://github.com/php/doc-ru/issues/1519#issuecomment-4934436595) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ⭐ Starred [php/infrastructure](https://github.com/php/infrastructure)<br>
+3. ✔️ Closed issue [#1519](https://github.com/php/doc-ru/issues/1519) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 5. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->

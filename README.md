@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#1705](https://github.com/php/web-php/pull/1705#pullrequestreview-4752277357) in [php/web-php](https://github.com/php/web-php)<br>
-2. 💬 Commented on [#308](https://github.com/ThePHPF/thephp.foundation/pull/308#issuecomment-5037379315) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. 💪 Opened PR [#309](undefined) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. ✔️ Closed issue [#1504](https://github.com/php/doc-ru/issues/1504) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. ✔️ Closed issue [#1510](https://github.com/php/doc-ru/issues/1510) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+4. 👍 Approved [#1549](https://github.com/php/doc-ru/pull/1549#pullrequestreview-4789631739) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. ✔️ Closed issue [#1511](https://github.com/php/doc-ru/issues/1511) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

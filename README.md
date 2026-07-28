@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-2. ✔️ Closed issue [#1504](https://github.com/php/doc-ru/issues/1504) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-3. ✔️ Closed issue [#1510](https://github.com/php/doc-ru/issues/1510) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 👍 Approved [#1549](https://github.com/php/doc-ru/pull/1549#pullrequestreview-4789631739) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. ✔️ Closed issue [#1511](https://github.com/php/doc-ru/issues/1511) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
+2. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
+3. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
+5. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

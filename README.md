@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#317](https://github.com/ThePHPF/thephp.foundation/pull/317#pullrequestreview-4947514290) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-3. 👍 Approved [#91](https://github.com/derickr/toot-together/pull/91#pullrequestreview-4928625182) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. 💬 Commented on [#91](https://github.com/derickr/toot-together/pull/91#discussion_r3776580400) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-5. 💬 Commented on [#91](https://github.com/derickr/toot-together/pull/91#discussion_r3776531892) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+2. 👍 Approved [#1635](https://github.com/php/doc-ru/pull/1635#pullrequestreview-4958749380) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+3. 👍 Approved [#317](https://github.com/ThePHPF/thephp.foundation/pull/317#pullrequestreview-4947514290) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+4. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+5. 👍 Approved [#91](https://github.com/derickr/toot-together/pull/91#pullrequestreview-4928625182) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

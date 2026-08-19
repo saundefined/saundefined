@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1991](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-2. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-4. 👍 Approved [#1635](https://github.com/php/doc-ru/pull/1635#pullrequestreview-4958749380) in [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 👍 Approved [#317](https://github.com/ThePHPF/thephp.foundation/pull/317#pullrequestreview-4947514290) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+1. ❌ Closed PR [#1991](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+2. 💪 Opened PR [#1991](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
+5. 👍 Approved [#1635](https://github.com/php/doc-ru/pull/1635#pullrequestreview-4958749380) in [php/doc-ru](https://github.com/php/doc-ru)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

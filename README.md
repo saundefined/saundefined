@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1991](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-2. 💪 Opened PR [#1991](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-4. ⬆️ Pushed undefined commit(s) to [php/doc-ru](https://github.com/php/doc-ru)<br>
-5. 👍 Approved [#1635](https://github.com/php/doc-ru/pull/1635#pullrequestreview-4958749380) in [php/doc-ru](https://github.com/php/doc-ru)<br>
+1. 👍 Approved [#318](https://github.com/ThePHPF/thephp.foundation/pull/318#pullrequestreview-5032864363) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+2. 👍 Approved [#84](https://github.com/derickr/toot-together/pull/84#pullrequestreview-5032860899) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+3. ❌ Closed PR [#1991](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💪 Opened PR [#1991](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

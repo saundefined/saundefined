@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#320](https://github.com/ThePHPF/thephp.foundation/pull/320#pullrequestreview-5066738461) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. 💪 Opened PR [#93](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 👍 Approved [#92](https://github.com/derickr/toot-together/pull/92#pullrequestreview-5042093038) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-4. 👍 Approved [#318](https://github.com/ThePHPF/thephp.foundation/pull/318#pullrequestreview-5032864363) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 👍 Approved [#84](https://github.com/derickr/toot-together/pull/84#pullrequestreview-5032860899) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. ❌ Closed PR [#2011](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+2. ❌ Closed PR [#2011](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+3. 💪 Opened PR [#2011](undefined) in [php/web-php](https://github.com/php/web-php)<br>
+4. 👍 Approved [#320](https://github.com/ThePHPF/thephp.foundation/pull/320#pullrequestreview-5066738461) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+5. 💪 Opened PR [#93](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

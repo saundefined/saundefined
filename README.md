@@ -26,7 +26,6 @@
 2. 💪 Opened PR [#2030](undefined) in [php/web-php](https://github.com/php/web-php)<br>
 3. ❌ Closed PR [#93](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 4. ❌ Closed PR [#2011](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

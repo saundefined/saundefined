@@ -22,10 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-2. 👍 Approved [#94](https://github.com/derickr/toot-together/pull/94#pullrequestreview-5460000972) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-3. 💪 Opened PR [#2030](undefined) in [php/web-php](https://github.com/php/web-php)<br>
-4. ❌ Closed PR [#93](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. 💬 Commented on [#24371](https://github.com/php/php-src/pull/24371#issuecomment-6247534473) in [php/php-src](https://github.com/php/php-src)<br>
+2. 💬 Commented on [#24188](https://github.com/php/php-src/pull/24188#issuecomment-6247532671) in [php/php-src](https://github.com/php/php-src)<br>
+3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. 👍 Approved [#94](https://github.com/derickr/toot-together/pull/94#pullrequestreview-5460000972) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+5. 💪 Opened PR [#2030](undefined) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

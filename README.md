@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-2. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
-3. 👍 Approved [#343](https://github.com/ThePHPF/thephp.foundation/pull/343#pullrequestreview-5602672331) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-4. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
-5. 💪 Opened PR [#95](undefined) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
+1. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
+2. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+3. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
+4. 👍 Approved [#343](https://github.com/ThePHPF/thephp.foundation/pull/343#pullrequestreview-5602672331) in [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+5. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

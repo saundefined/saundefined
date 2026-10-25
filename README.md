@@ -24,9 +24,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 2. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. 👍 Approved [#2039](https://github.com/php/web-php/pull/2039#pullrequestreview-5638731794) in [php/web-php](https://github.com/php/web-php)<br>
-4. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
-5. ⬆️ Pushed undefined commit(s) to [ThePHPF/thephp.foundation](https://github.com/ThePHPF/thephp.foundation)<br>
+3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+4. 👍 Approved [#2039](https://github.com/php/web-php/pull/2039#pullrequestreview-5638731794) in [php/web-php](https://github.com/php/web-php)<br>
+5. ⬆️ Pushed undefined commit(s) to [php/php-src](https://github.com/php/php-src)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

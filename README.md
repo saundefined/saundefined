@@ -22,9 +22,9 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#97](https://github.com/derickr/toot-together/pull/97#pullrequestreview-5876307830) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
-2. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+1. 👍 Approved [#2060](https://github.com/php/web-php/pull/2060#pullrequestreview-5913051368) in [php/web-php](https://github.com/php/web-php)<br>
+2. 👍 Approved [#52](https://github.com/saundefined/web-php/pull/52#pullrequestreview-5913006592) in [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+3. 👍 Approved [#97](https://github.com/derickr/toot-together/pull/97#pullrequestreview-5876307830) in [derickr/toot-together](https://github.com/derickr/toot-together)<br>
 4. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
 <!--RECENT_ACTIVITY:end-->

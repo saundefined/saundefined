@@ -22,11 +22,11 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#2075](https://github.com/php/web-php/pull/2075#pullrequestreview-5946707877) in [php/web-php](https://github.com/php/web-php)<br>
-2. 👍 Approved [#2072](https://github.com/php/web-php/pull/2072#pullrequestreview-5946699152) in [php/web-php](https://github.com/php/web-php)<br>
-3. 👍 Approved [#2073](https://github.com/php/web-php/pull/2073#pullrequestreview-5946694539) in [php/web-php](https://github.com/php/web-php)<br>
-4. 👍 Approved [#2074](https://github.com/php/web-php/pull/2074#pullrequestreview-5946690256) in [php/web-php](https://github.com/php/web-php)<br>
-5. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+1. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
+2. 💬 Commented on [#2070](https://github.com/php/web-php/pull/2070#issuecomment-6971863088) in [php/web-php](https://github.com/php/web-php)<br>
+3. 💬 Commented on [#2070](https://github.com/php/web-php/pull/2070#issuecomment-6970822286) in [php/web-php](https://github.com/php/web-php)<br>
+4. 👍 Approved [#2071](https://github.com/php/web-php/pull/2071#pullrequestreview-5951609976) in [php/web-php](https://github.com/php/web-php)<br>
+5. 👍 Approved [#2077](https://github.com/php/web-php/pull/2077#pullrequestreview-5951606288) in [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 #### 💌 How to reach out to me

@@ -22,10 +22,10 @@
 #### 👨‍💻 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
-2. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-3. ⬆️ Pushed undefined commit(s) to [saundefined/web-php](https://github.com/saundefined/web-php)<br>
-4. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
+1. 👍 Approved [#2100](https://github.com/php/web-php/pull/2100#pullrequestreview-5992687210) in [php/web-php](https://github.com/php/web-php)<br>
+2. ✔️ Closed issue [#2096](https://github.com/php/web-php/issues/2096) in [php/web-php](https://github.com/php/web-php)<br>
+3. 👍 Approved [#2101](https://github.com/php/web-php/pull/2101#pullrequestreview-5992676744) in [php/web-php](https://github.com/php/web-php)<br>
+4. 💬 Commented on [#2070](https://github.com/php/web-php/pull/2070#discussion_r4630021672) in [php/web-php](https://github.com/php/web-php)<br>
 5. ⬆️ Pushed undefined commit(s) to [php/web-php](https://github.com/php/web-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
